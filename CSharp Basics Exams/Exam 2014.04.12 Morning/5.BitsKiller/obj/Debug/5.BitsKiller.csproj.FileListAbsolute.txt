@@ -1,0 +1,6 @@
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Morning\Exam 2014.04.12 Morning\5.BitsKiller\bin\Debug\5.BitsKiller.exe.config
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Morning\Exam 2014.04.12 Morning\5.BitsKiller\bin\Debug\5.BitsKiller.exe
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Morning\Exam 2014.04.12 Morning\5.BitsKiller\bin\Debug\5.BitsKiller.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Morning\Exam 2014.04.12 Morning\5.BitsKiller\obj\Debug\5.BitsKiller.csprojResolveAssemblyReference.cache
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Morning\Exam 2014.04.12 Morning\5.BitsKiller\obj\Debug\5.BitsKiller.exe
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Morning\Exam 2014.04.12 Morning\5.BitsKiller\obj\Debug\5.BitsKiller.pdb

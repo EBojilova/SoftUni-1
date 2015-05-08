@@ -1,0 +1,12 @@
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Evening\Exam 2014.04.12 Evening\2.OddEvenElements\bin\Debug\2.OddEvenElements.exe.config
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Evening\Exam 2014.04.12 Evening\2.OddEvenElements\bin\Debug\2.OddEvenElements.exe
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Evening\Exam 2014.04.12 Evening\2.OddEvenElements\bin\Debug\2.OddEvenElements.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Evening\Exam 2014.04.12 Evening\2.OddEvenElements\obj\Debug\2.OddEvenElements.csprojResolveAssemblyReference.cache
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Evening\Exam 2014.04.12 Evening\2.OddEvenElements\obj\Debug\2.OddEvenElements.exe
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Evening\Exam 2014.04.12 Evening\2.OddEvenElements\obj\Debug\2.OddEvenElements.pdb
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Evening\Exam 2014.04.12 Evening\2.OddEvenElements\bin\Debug\2.OddEvenElements.exe.config
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Evening\Exam 2014.04.12 Evening\2.OddEvenElements\obj\Debug\2.OddEvenElements.exe
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Evening\Exam 2014.04.12 Evening\2.OddEvenElements\obj\Debug\2.OddEvenElements.pdb
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Evening\Exam 2014.04.12 Evening\2.OddEvenElements\bin\Debug\2.OddEvenElements.exe
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Evening\Exam 2014.04.12 Evening\2.OddEvenElements\bin\Debug\2.OddEvenElements.pdb
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Evening\Exam 2014.04.12 Evening\2.OddEvenElements\obj\Debug\2.OddEvenElements.csprojResolveAssemblyReference.cache
