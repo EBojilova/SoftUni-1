@@ -1,5 +1,0 @@
-E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Evening\Exam 2014.04.12 Evening\3.Arrow\bin\Debug\3.Arrow.exe.config
-E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Evening\Exam 2014.04.12 Evening\3.Arrow\bin\Debug\3.Arrow.exe
-E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Evening\Exam 2014.04.12 Evening\3.Arrow\bin\Debug\3.Arrow.pdb
-E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Evening\Exam 2014.04.12 Evening\3.Arrow\obj\Debug\3.Arrow.exe
-E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Evening\Exam 2014.04.12 Evening\3.Arrow\obj\Debug\3.Arrow.pdb

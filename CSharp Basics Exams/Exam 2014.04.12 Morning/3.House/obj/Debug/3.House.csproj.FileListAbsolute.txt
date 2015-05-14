@@ -1,9 +1,0 @@
-E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Morning\Exam 2014.04.12 Morning\3.House\bin\Debug\3.House.exe.config
-E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Morning\Exam 2014.04.12 Morning\3.House\bin\Debug\3.House.exe
-E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Morning\Exam 2014.04.12 Morning\3.House\bin\Debug\3.House.pdb
-E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Morning\Exam 2014.04.12 Morning\3.House\obj\Debug\3.House.exe
-E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Morning\Exam 2014.04.12 Morning\3.House\obj\Debug\3.House.pdb
-E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Morning\Exam 2014.04.12 Morning\3.House\obj\Debug\3.House.csprojResolveAssemblyReference.cache
-C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Morning\Exam 2014.04.12 Morning\3.House\bin\Debug\3.House.exe.config
-C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Morning\Exam 2014.04.12 Morning\3.House\obj\Debug\3.House.exe
-C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Morning\Exam 2014.04.12 Morning\3.House\obj\Debug\3.House.pdb

@@ -1,9 +1,0 @@
-E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Morning\Exam 2014.04.12 Morning\1.Triangle\bin\Debug\1.Triangle.exe.config
-E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Morning\Exam 2014.04.12 Morning\1.Triangle\bin\Debug\1.Triangle.exe
-E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Morning\Exam 2014.04.12 Morning\1.Triangle\bin\Debug\1.Triangle.pdb
-E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Morning\Exam 2014.04.12 Morning\1.Triangle\obj\Debug\1.Triangle.csprojResolveAssemblyReference.cache
-E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Morning\Exam 2014.04.12 Morning\1.Triangle\obj\Debug\1.Triangle.exe
-E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Morning\Exam 2014.04.12 Morning\1.Triangle\obj\Debug\1.Triangle.pdb
-C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Morning\Exam 2014.04.12 Morning\1.Triangle\bin\Debug\1.Triangle.exe.config
-C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Morning\Exam 2014.04.12 Morning\1.Triangle\obj\Debug\1.Triangle.exe
-C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.12 Morning\Exam 2014.04.12 Morning\1.Triangle\obj\Debug\1.Triangle.pdb
