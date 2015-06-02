@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.04 - Arrays Lists Stacks Queues\2015.05.04 - Arrays Lists Stacks Queues\04.SequencesOfEqualStrings\bin\Debug\04.SequencesOfEqualStrings.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.04 - Arrays Lists Stacks Queues\2015.05.04 - Arrays Lists Stacks Queues\04.SequencesOfEqualStrings\bin\Debug\04.SequencesOfEqualStrings.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.04 - Arrays Lists Stacks Queues\2015.05.04 - Arrays Lists Stacks Queues\04.SequencesOfEqualStrings\bin\Debug\04.SequencesOfEqualStrings.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.04 - Arrays Lists Stacks Queues\2015.05.04 - Arrays Lists Stacks Queues\04.SequencesOfEqualStrings\obj\Debug\04.SequencesOfEqualStrings.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.04 - Arrays Lists Stacks Queues\2015.05.04 - Arrays Lists Stacks Queues\04.SequencesOfEqualStrings\obj\Debug\04.SequencesOfEqualStrings.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.04 - Arrays Lists Stacks Queues\2015.05.04 - Arrays Lists Stacks Queues\04.SequencesOfEqualStrings\obj\Debug\04.SequencesOfEqualStrings.pdb

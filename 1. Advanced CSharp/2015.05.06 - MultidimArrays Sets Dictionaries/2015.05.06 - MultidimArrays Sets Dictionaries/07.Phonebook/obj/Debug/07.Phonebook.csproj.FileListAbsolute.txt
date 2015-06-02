@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - MultidimArrays Sets Dictionaries\2015.05.06 - MultidimArrays Sets Dictionaries\07.Phonebook\bin\Debug\07.Phonebook.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - MultidimArrays Sets Dictionaries\2015.05.06 - MultidimArrays Sets Dictionaries\07.Phonebook\bin\Debug\07.Phonebook.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - MultidimArrays Sets Dictionaries\2015.05.06 - MultidimArrays Sets Dictionaries\07.Phonebook\bin\Debug\07.Phonebook.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - MultidimArrays Sets Dictionaries\2015.05.06 - MultidimArrays Sets Dictionaries\07.Phonebook\obj\Debug\07.Phonebook.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - MultidimArrays Sets Dictionaries\2015.05.06 - MultidimArrays Sets Dictionaries\07.Phonebook\obj\Debug\07.Phonebook.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - MultidimArrays Sets Dictionaries\2015.05.06 - MultidimArrays Sets Dictionaries\07.Phonebook\obj\Debug\07.Phonebook.pdb

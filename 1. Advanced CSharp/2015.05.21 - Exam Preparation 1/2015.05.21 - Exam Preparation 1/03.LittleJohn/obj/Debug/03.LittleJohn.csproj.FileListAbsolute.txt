@@ -1,0 +1,6 @@
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.21 - Exam Preparation 1\2015.05.21 - Exam Preparation 1\03.LittleJohn\bin\Debug\03.LittleJohn.exe.config
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.21 - Exam Preparation 1\2015.05.21 - Exam Preparation 1\03.LittleJohn\bin\Debug\03.LittleJohn.exe
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.21 - Exam Preparation 1\2015.05.21 - Exam Preparation 1\03.LittleJohn\bin\Debug\03.LittleJohn.pdb
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.21 - Exam Preparation 1\2015.05.21 - Exam Preparation 1\03.LittleJohn\obj\Debug\03.LittleJohn.csprojResolveAssemblyReference.cache
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.21 - Exam Preparation 1\2015.05.21 - Exam Preparation 1\03.LittleJohn\obj\Debug\03.LittleJohn.exe
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.21 - Exam Preparation 1\2015.05.21 - Exam Preparation 1\03.LittleJohn\obj\Debug\03.LittleJohn.pdb

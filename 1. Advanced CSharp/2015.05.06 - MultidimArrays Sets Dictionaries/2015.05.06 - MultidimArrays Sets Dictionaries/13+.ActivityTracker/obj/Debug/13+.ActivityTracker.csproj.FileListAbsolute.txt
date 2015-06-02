@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - MultidimArrays Sets Dictionaries\2015.05.06 - MultidimArrays Sets Dictionaries\13+.ActivityTracker\bin\Debug\13+.ActivityTracker.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - MultidimArrays Sets Dictionaries\2015.05.06 - MultidimArrays Sets Dictionaries\13+.ActivityTracker\bin\Debug\13+.ActivityTracker.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - MultidimArrays Sets Dictionaries\2015.05.06 - MultidimArrays Sets Dictionaries\13+.ActivityTracker\bin\Debug\13+.ActivityTracker.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - MultidimArrays Sets Dictionaries\2015.05.06 - MultidimArrays Sets Dictionaries\13+.ActivityTracker\obj\Debug\13+.ActivityTracker.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - MultidimArrays Sets Dictionaries\2015.05.06 - MultidimArrays Sets Dictionaries\13+.ActivityTracker\obj\Debug\13+.ActivityTracker.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - MultidimArrays Sets Dictionaries\2015.05.06 - MultidimArrays Sets Dictionaries\13+.ActivityTracker\obj\Debug\13+.ActivityTracker.pdb

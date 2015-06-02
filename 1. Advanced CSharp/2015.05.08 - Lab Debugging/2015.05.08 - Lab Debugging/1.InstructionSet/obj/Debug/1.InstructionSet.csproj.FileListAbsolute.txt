@@ -1,0 +1,6 @@
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.08 - Lab Debugging\2015.05.08 - Lab Debugging\1.InstructionSet\bin\Debug\1.InstructionSet.exe.config
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.08 - Lab Debugging\2015.05.08 - Lab Debugging\1.InstructionSet\bin\Debug\1.InstructionSet.exe
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.08 - Lab Debugging\2015.05.08 - Lab Debugging\1.InstructionSet\bin\Debug\1.InstructionSet.pdb
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.08 - Lab Debugging\2015.05.08 - Lab Debugging\1.InstructionSet\obj\Debug\1.InstructionSet.csprojResolveAssemblyReference.cache
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.08 - Lab Debugging\2015.05.08 - Lab Debugging\1.InstructionSet\obj\Debug\1.InstructionSet.exe
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.08 - Lab Debugging\2015.05.08 - Lab Debugging\1.InstructionSet\obj\Debug\1.InstructionSet.pdb

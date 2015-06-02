@@ -1,0 +1,7 @@
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Regular Expressions\2015.05.11 - Regular Expressions\03.ExtractEmails\bin\Debug\03.ExtractEmails.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Regular Expressions\2015.05.11 - Regular Expressions\03.ExtractEmails\bin\Debug\03.ExtractEmails.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Regular Expressions\2015.05.11 - Regular Expressions\03.ExtractEmails\bin\Debug\03.ExtractEmails.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Regular Expressions\2015.05.11 - Regular Expressions\03.ExtractEmails\bin\Debug\03.ExtractEmails.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Regular Expressions\2015.05.11 - Regular Expressions\03.ExtractEmails\obj\Debug\03.ExtractEmails.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Regular Expressions\2015.05.11 - Regular Expressions\03.ExtractEmails\obj\Debug\03.ExtractEmails.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Regular Expressions\2015.05.11 - Regular Expressions\03.ExtractEmails\obj\Debug\03.ExtractEmails.pdb

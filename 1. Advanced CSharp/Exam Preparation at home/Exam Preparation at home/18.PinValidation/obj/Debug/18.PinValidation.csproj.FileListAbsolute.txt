@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\1. Advanced CSharp\Exam Preparation at home\Exam Preparation at home\18.PinValidation\bin\Debug\18.PinValidation.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\Exam Preparation at home\Exam Preparation at home\18.PinValidation\bin\Debug\18.PinValidation.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\Exam Preparation at home\Exam Preparation at home\18.PinValidation\bin\Debug\18.PinValidation.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\Exam Preparation at home\Exam Preparation at home\18.PinValidation\obj\Debug\18.PinValidation.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\1. Advanced CSharp\Exam Preparation at home\Exam Preparation at home\18.PinValidation\obj\Debug\18.PinValidation.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\Exam Preparation at home\Exam Preparation at home\18.PinValidation\obj\Debug\18.PinValidation.pdb

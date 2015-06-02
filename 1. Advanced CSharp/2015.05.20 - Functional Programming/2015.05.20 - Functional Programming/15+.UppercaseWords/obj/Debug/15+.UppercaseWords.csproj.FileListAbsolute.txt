@@ -1,0 +1,12 @@
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\15+.UppercaseWords\bin\Debug\15+.UppercaseWords.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\15+.UppercaseWords\bin\Debug\15+.UppercaseWords.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\15+.UppercaseWords\bin\Debug\15+.UppercaseWords.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\15+.UppercaseWords\obj\Debug\15+.UppercaseWords.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\15+.UppercaseWords\obj\Debug\15+.UppercaseWords.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\15+.UppercaseWords\obj\Debug\15+.UppercaseWords.pdb
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\15+.UppercaseWords\bin\Debug\15+.UppercaseWords.exe.config
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\15+.UppercaseWords\obj\Debug\15+.UppercaseWords.exe
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\15+.UppercaseWords\obj\Debug\15+.UppercaseWords.pdb
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\15+.UppercaseWords\bin\Debug\15+.UppercaseWords.exe
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\15+.UppercaseWords\bin\Debug\15+.UppercaseWords.pdb
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\15+.UppercaseWords\obj\Debug\15+.UppercaseWords.csprojResolveAssemblyReference.cache

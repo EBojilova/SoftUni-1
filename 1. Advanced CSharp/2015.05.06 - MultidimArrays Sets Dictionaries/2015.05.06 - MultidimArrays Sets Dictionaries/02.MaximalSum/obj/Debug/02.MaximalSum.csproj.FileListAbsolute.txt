@@ -1,0 +1,12 @@
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - MultidimArrays Sets Dictionaries\2015.05.06 - MultidimArrays Sets Dictionaries\02.MaximalSum\bin\Debug\02.MaximalSum.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - MultidimArrays Sets Dictionaries\2015.05.06 - MultidimArrays Sets Dictionaries\02.MaximalSum\bin\Debug\02.MaximalSum.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - MultidimArrays Sets Dictionaries\2015.05.06 - MultidimArrays Sets Dictionaries\02.MaximalSum\bin\Debug\02.MaximalSum.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - MultidimArrays Sets Dictionaries\2015.05.06 - MultidimArrays Sets Dictionaries\02.MaximalSum\obj\Debug\02.MaximalSum.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - MultidimArrays Sets Dictionaries\2015.05.06 - MultidimArrays Sets Dictionaries\02.MaximalSum\obj\Debug\02.MaximalSum.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - MultidimArrays Sets Dictionaries\2015.05.06 - MultidimArrays Sets Dictionaries\02.MaximalSum\obj\Debug\02.MaximalSum.pdb
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - MultidimArrays Sets Dictionaries\2015.05.06 - MultidimArrays Sets Dictionaries\02.MaximalSum\bin\Debug\02.MaximalSum.exe.config
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - MultidimArrays Sets Dictionaries\2015.05.06 - MultidimArrays Sets Dictionaries\02.MaximalSum\obj\Debug\02.MaximalSum.exe
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - MultidimArrays Sets Dictionaries\2015.05.06 - MultidimArrays Sets Dictionaries\02.MaximalSum\obj\Debug\02.MaximalSum.pdb
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - MultidimArrays Sets Dictionaries\2015.05.06 - MultidimArrays Sets Dictionaries\02.MaximalSum\bin\Debug\02.MaximalSum.exe
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - MultidimArrays Sets Dictionaries\2015.05.06 - MultidimArrays Sets Dictionaries\02.MaximalSum\bin\Debug\02.MaximalSum.pdb
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - MultidimArrays Sets Dictionaries\2015.05.06 - MultidimArrays Sets Dictionaries\02.MaximalSum\obj\Debug\02.MaximalSum.csprojResolveAssemblyReference.cache

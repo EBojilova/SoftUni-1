@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.18 - Files and Streams\2015.05.18 - Files and Streams\07.DirectoryTraversal\bin\Debug\07.DirectoryTraversal.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.18 - Files and Streams\2015.05.18 - Files and Streams\07.DirectoryTraversal\bin\Debug\07.DirectoryTraversal.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.18 - Files and Streams\2015.05.18 - Files and Streams\07.DirectoryTraversal\bin\Debug\07.DirectoryTraversal.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.18 - Files and Streams\2015.05.18 - Files and Streams\07.DirectoryTraversal\obj\Debug\07.DirectoryTraversal.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.18 - Files and Streams\2015.05.18 - Files and Streams\07.DirectoryTraversal\obj\Debug\07.DirectoryTraversal.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.18 - Files and Streams\2015.05.18 - Files and Streams\07.DirectoryTraversal\obj\Debug\07.DirectoryTraversal.pdb

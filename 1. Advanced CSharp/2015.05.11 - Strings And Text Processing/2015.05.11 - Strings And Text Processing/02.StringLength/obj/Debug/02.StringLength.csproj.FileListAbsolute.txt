@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Strings And Text Processing\2015.05.11 - Strings And Text Processing\02.StringLength\bin\Debug\02.StringLength.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Strings And Text Processing\2015.05.11 - Strings And Text Processing\02.StringLength\bin\Debug\02.StringLength.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Strings And Text Processing\2015.05.11 - Strings And Text Processing\02.StringLength\bin\Debug\02.StringLength.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Strings And Text Processing\2015.05.11 - Strings And Text Processing\02.StringLength\obj\Debug\02.StringLength.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Strings And Text Processing\2015.05.11 - Strings And Text Processing\02.StringLength\obj\Debug\02.StringLength.pdb

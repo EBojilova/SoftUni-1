@@ -1,0 +1,6 @@
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.13 - Lab Algorithms\2015.05.13 - Lab Algorithms\03.InsertionSort\bin\Debug\03.InsertionSort.exe.config
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.13 - Lab Algorithms\2015.05.13 - Lab Algorithms\03.InsertionSort\bin\Debug\03.InsertionSort.exe
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.13 - Lab Algorithms\2015.05.13 - Lab Algorithms\03.InsertionSort\bin\Debug\03.InsertionSort.pdb
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.13 - Lab Algorithms\2015.05.13 - Lab Algorithms\03.InsertionSort\obj\Debug\03.InsertionSort.csprojResolveAssemblyReference.cache
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.13 - Lab Algorithms\2015.05.13 - Lab Algorithms\03.InsertionSort\obj\Debug\03.InsertionSort.exe
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.13 - Lab Algorithms\2015.05.13 - Lab Algorithms\03.InsertionSort\obj\Debug\03.InsertionSort.pdb

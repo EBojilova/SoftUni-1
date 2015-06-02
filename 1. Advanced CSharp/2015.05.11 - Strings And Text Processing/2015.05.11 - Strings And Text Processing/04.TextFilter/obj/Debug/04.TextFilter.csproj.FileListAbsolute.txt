@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Strings And Text Processing\2015.05.11 - Strings And Text Processing\04.TextFilter\bin\Debug\04.TextFilter.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Strings And Text Processing\2015.05.11 - Strings And Text Processing\04.TextFilter\bin\Debug\04.TextFilter.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Strings And Text Processing\2015.05.11 - Strings And Text Processing\04.TextFilter\bin\Debug\04.TextFilter.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Strings And Text Processing\2015.05.11 - Strings And Text Processing\04.TextFilter\obj\Debug\04.TextFilter.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Strings And Text Processing\2015.05.11 - Strings And Text Processing\04.TextFilter\obj\Debug\04.TextFilter.pdb

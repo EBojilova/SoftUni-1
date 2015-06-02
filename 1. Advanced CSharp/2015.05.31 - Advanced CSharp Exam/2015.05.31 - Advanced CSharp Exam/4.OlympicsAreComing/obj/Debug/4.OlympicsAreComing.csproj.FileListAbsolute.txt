@@ -1,0 +1,6 @@
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.31 - Advanced CSharp Exam\2015.05.31 - Advanced CSharp Exam\4.OlympicsAreComing\bin\Debug\4.OlympicsAreComing.exe.config
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.31 - Advanced CSharp Exam\2015.05.31 - Advanced CSharp Exam\4.OlympicsAreComing\bin\Debug\4.OlympicsAreComing.exe
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.31 - Advanced CSharp Exam\2015.05.31 - Advanced CSharp Exam\4.OlympicsAreComing\bin\Debug\4.OlympicsAreComing.pdb
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.31 - Advanced CSharp Exam\2015.05.31 - Advanced CSharp Exam\4.OlympicsAreComing\obj\Debug\4.OlympicsAreComing.csprojResolveAssemblyReference.cache
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.31 - Advanced CSharp Exam\2015.05.31 - Advanced CSharp Exam\4.OlympicsAreComing\obj\Debug\4.OlympicsAreComing.exe
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.31 - Advanced CSharp Exam\2015.05.31 - Advanced CSharp Exam\4.OlympicsAreComing\obj\Debug\4.OlympicsAreComing.pdb

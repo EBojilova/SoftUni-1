@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.04 - Arrays Lists Stacks Queues\2015.05.04 - Arrays Lists Stacks Queues\05.LongestIncreasingSequence\bin\Debug\05.LongestIncreasingSequence.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.04 - Arrays Lists Stacks Queues\2015.05.04 - Arrays Lists Stacks Queues\05.LongestIncreasingSequence\bin\Debug\05.LongestIncreasingSequence.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.04 - Arrays Lists Stacks Queues\2015.05.04 - Arrays Lists Stacks Queues\05.LongestIncreasingSequence\bin\Debug\05.LongestIncreasingSequence.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.04 - Arrays Lists Stacks Queues\2015.05.04 - Arrays Lists Stacks Queues\05.LongestIncreasingSequence\obj\Debug\05.LongestIncreasingSequence.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.04 - Arrays Lists Stacks Queues\2015.05.04 - Arrays Lists Stacks Queues\05.LongestIncreasingSequence\obj\Debug\05.LongestIncreasingSequence.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.04 - Arrays Lists Stacks Queues\2015.05.04 - Arrays Lists Stacks Queues\05.LongestIncreasingSequence\obj\Debug\05.LongestIncreasingSequence.pdb

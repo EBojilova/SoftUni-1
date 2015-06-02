@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - Methods\2015.05.06 - Methods\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - Methods\2015.05.06 - Methods\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - Methods\2015.05.06 - Methods\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - Methods\2015.05.06 - Methods\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - Methods\2015.05.06 - Methods\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.pdb

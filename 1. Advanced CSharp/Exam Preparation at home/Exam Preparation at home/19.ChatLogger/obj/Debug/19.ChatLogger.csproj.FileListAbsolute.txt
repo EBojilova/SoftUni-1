@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\1. Advanced CSharp\Exam Preparation at home\Exam Preparation at home\19.ChatLogger\bin\Debug\19.ChatLogger.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\Exam Preparation at home\Exam Preparation at home\19.ChatLogger\bin\Debug\19.ChatLogger.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\Exam Preparation at home\Exam Preparation at home\19.ChatLogger\bin\Debug\19.ChatLogger.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\Exam Preparation at home\Exam Preparation at home\19.ChatLogger\obj\Debug\19.ChatLogger.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\1. Advanced CSharp\Exam Preparation at home\Exam Preparation at home\19.ChatLogger\obj\Debug\19.ChatLogger.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\Exam Preparation at home\Exam Preparation at home\19.ChatLogger\obj\Debug\19.ChatLogger.pdb

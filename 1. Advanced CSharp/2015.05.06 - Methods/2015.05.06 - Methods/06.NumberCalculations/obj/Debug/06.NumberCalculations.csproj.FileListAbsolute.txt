@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - Methods\2015.05.06 - Methods\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - Methods\2015.05.06 - Methods\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - Methods\2015.05.06 - Methods\06.NumberCalculations\bin\Debug\06.NumberCalculations.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - Methods\2015.05.06 - Methods\06.NumberCalculations\obj\Debug\06.NumberCalculations.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - Methods\2015.05.06 - Methods\06.NumberCalculations\obj\Debug\06.NumberCalculations.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - Methods\2015.05.06 - Methods\06.NumberCalculations\obj\Debug\06.NumberCalculations.pdb

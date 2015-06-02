@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\16+.LittleJohn\bin\Debug\16+.LittleJohn.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\16+.LittleJohn\bin\Debug\16+.LittleJohn.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\16+.LittleJohn\bin\Debug\16+.LittleJohn.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\16+.LittleJohn\obj\Debug\16+.LittleJohn.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\16+.LittleJohn\obj\Debug\16+.LittleJohn.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\16+.LittleJohn\obj\Debug\16+.LittleJohn.pdb

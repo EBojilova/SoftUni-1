@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Regular Expressions\2015.05.11 - Regular Expressions\07+.QueryMess\bin\Debug\07+.QueryMess.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Regular Expressions\2015.05.11 - Regular Expressions\07+.QueryMess\bin\Debug\07+.QueryMess.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Regular Expressions\2015.05.11 - Regular Expressions\07+.QueryMess\bin\Debug\07+.QueryMess.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Regular Expressions\2015.05.11 - Regular Expressions\07+.QueryMess\obj\Debug\07+.QueryMess.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Regular Expressions\2015.05.11 - Regular Expressions\07+.QueryMess\obj\Debug\07+.QueryMess.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Regular Expressions\2015.05.11 - Regular Expressions\07+.QueryMess\obj\Debug\07+.QueryMess.pdb

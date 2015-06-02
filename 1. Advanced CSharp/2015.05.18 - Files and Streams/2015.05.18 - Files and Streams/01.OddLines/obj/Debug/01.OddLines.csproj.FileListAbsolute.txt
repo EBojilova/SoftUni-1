@@ -1,0 +1,9 @@
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.18 - Files and Streams\2015.05.18 - Files and Streams\01.OddLines\bin\Debug\01.OddLines.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.18 - Files and Streams\2015.05.18 - Files and Streams\01.OddLines\obj\Debug\01.OddLines.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.18 - Files and Streams\2015.05.18 - Files and Streams\01.OddLines\bin\Debug\01.OddLines.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.18 - Files and Streams\2015.05.18 - Files and Streams\01.OddLines\bin\Debug\01.OddLines.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.18 - Files and Streams\2015.05.18 - Files and Streams\01.OddLines\obj\Debug\01.OddLines.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.18 - Files and Streams\2015.05.18 - Files and Streams\01.OddLines\obj\Debug\01.OddLines.pdb
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.18 - Files and Streams\2015.05.18 - Files and Streams\01.OddLines\bin\Debug\01.OddLines.exe.config
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.18 - Files and Streams\2015.05.18 - Files and Streams\01.OddLines\obj\Debug\01.OddLines.exe
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.18 - Files and Streams\2015.05.18 - Files and Streams\01.OddLines\obj\Debug\01.OddLines.pdb

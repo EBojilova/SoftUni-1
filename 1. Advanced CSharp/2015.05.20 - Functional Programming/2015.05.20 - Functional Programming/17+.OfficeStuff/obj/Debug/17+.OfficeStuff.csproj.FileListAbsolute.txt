@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\17+.OfficeStuff\bin\Debug\17+.OfficeStuff.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\17+.OfficeStuff\bin\Debug\17+.OfficeStuff.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\17+.OfficeStuff\bin\Debug\17+.OfficeStuff.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\17+.OfficeStuff\obj\Debug\17+.OfficeStuff.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\17+.OfficeStuff\obj\Debug\17+.OfficeStuff.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\17+.OfficeStuff\obj\Debug\17+.OfficeStuff.pdb

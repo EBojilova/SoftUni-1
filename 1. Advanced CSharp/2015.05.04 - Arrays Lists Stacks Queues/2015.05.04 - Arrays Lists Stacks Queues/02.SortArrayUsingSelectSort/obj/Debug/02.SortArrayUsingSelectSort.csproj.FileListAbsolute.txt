@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.04 - Arrays Lists Stacks Queues\2015.05.04 - Arrays Lists Stacks Queues\02.SortArrayUsingSelectSort\bin\Debug\02.SortArrayUsingSelectSort.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.04 - Arrays Lists Stacks Queues\2015.05.04 - Arrays Lists Stacks Queues\02.SortArrayUsingSelectSort\bin\Debug\02.SortArrayUsingSelectSort.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.04 - Arrays Lists Stacks Queues\2015.05.04 - Arrays Lists Stacks Queues\02.SortArrayUsingSelectSort\bin\Debug\02.SortArrayUsingSelectSort.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.04 - Arrays Lists Stacks Queues\2015.05.04 - Arrays Lists Stacks Queues\02.SortArrayUsingSelectSort\obj\Debug\02.SortArrayUsingSelectSort.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.04 - Arrays Lists Stacks Queues\2015.05.04 - Arrays Lists Stacks Queues\02.SortArrayUsingSelectSort\obj\Debug\02.SortArrayUsingSelectSort.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.04 - Arrays Lists Stacks Queues\2015.05.04 - Arrays Lists Stacks Queues\02.SortArrayUsingSelectSort\obj\Debug\02.SortArrayUsingSelectSort.pdb

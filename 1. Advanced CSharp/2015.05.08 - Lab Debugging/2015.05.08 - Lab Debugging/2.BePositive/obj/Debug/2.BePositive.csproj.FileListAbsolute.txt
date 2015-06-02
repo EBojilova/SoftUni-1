@@ -1,0 +1,6 @@
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.08 - Lab Debugging\2015.05.08 - Lab Debugging\2.BePositive\bin\Debug\2.BePositive.exe.config
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.08 - Lab Debugging\2015.05.08 - Lab Debugging\2.BePositive\bin\Debug\2.BePositive.exe
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.08 - Lab Debugging\2015.05.08 - Lab Debugging\2.BePositive\bin\Debug\2.BePositive.pdb
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.08 - Lab Debugging\2015.05.08 - Lab Debugging\2.BePositive\obj\Debug\2.BePositive.csprojResolveAssemblyReference.cache
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.08 - Lab Debugging\2015.05.08 - Lab Debugging\2.BePositive\obj\Debug\2.BePositive.exe
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.08 - Lab Debugging\2015.05.08 - Lab Debugging\2.BePositive\obj\Debug\2.BePositive.pdb

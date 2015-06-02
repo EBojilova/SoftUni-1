@@ -1,0 +1,7 @@
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\13++.LINQinExcel\bin\Debug\13++.LINQinExcel.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\13++.LINQinExcel\bin\Debug\13++.LINQinExcel.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\13++.LINQinExcel\bin\Debug\13++.LINQinExcel.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\13++.LINQinExcel\bin\Debug\ExcelLibrary.dll
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\13++.LINQinExcel\obj\Debug\13++.LINQinExcel.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\13++.LINQinExcel\obj\Debug\13++.LINQinExcel.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\13++.LINQinExcel\obj\Debug\13++.LINQinExcel.pdb

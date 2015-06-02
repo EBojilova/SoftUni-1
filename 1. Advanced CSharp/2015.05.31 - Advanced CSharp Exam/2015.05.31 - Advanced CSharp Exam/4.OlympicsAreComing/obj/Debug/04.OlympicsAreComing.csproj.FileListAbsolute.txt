@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.31 - Advanced CSharp Exam\2015.05.31 - Advanced CSharp Exam\4.OlympicsAreComing\bin\Debug\4.OlympicsAreComing.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.31 - Advanced CSharp Exam\2015.05.31 - Advanced CSharp Exam\4.OlympicsAreComing\obj\Debug\4.OlympicsAreComing.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.31 - Advanced CSharp Exam\2015.05.31 - Advanced CSharp Exam\4.OlympicsAreComing\obj\Debug\4.OlympicsAreComing.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.31 - Advanced CSharp Exam\2015.05.31 - Advanced CSharp Exam\4.OlympicsAreComing\bin\Debug\4.OlympicsAreComing.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.31 - Advanced CSharp Exam\2015.05.31 - Advanced CSharp Exam\4.OlympicsAreComing\bin\Debug\4.OlympicsAreComing.pdb

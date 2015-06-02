@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - MultidimArrays Sets Dictionaries\2015.05.06 - MultidimArrays Sets Dictionaries\08.NightLife\bin\Debug\08.NightLife.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - MultidimArrays Sets Dictionaries\2015.05.06 - MultidimArrays Sets Dictionaries\08.NightLife\bin\Debug\08.NightLife.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - MultidimArrays Sets Dictionaries\2015.05.06 - MultidimArrays Sets Dictionaries\08.NightLife\bin\Debug\08.NightLife.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - MultidimArrays Sets Dictionaries\2015.05.06 - MultidimArrays Sets Dictionaries\08.NightLife\obj\Debug\08.NightLife.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - MultidimArrays Sets Dictionaries\2015.05.06 - MultidimArrays Sets Dictionaries\08.NightLife\obj\Debug\08.NightLife.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - MultidimArrays Sets Dictionaries\2015.05.06 - MultidimArrays Sets Dictionaries\08.NightLife\obj\Debug\08.NightLife.pdb

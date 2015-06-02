@@ -1,0 +1,5 @@
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.26 - Exam Preparation 2\2015.05.26 - Exam Preparation 2\03.SemanticHTML\bin\Debug\03.SemanticHTML.exe.config
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.26 - Exam Preparation 2\2015.05.26 - Exam Preparation 2\03.SemanticHTML\bin\Debug\03.SemanticHTML.exe
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.26 - Exam Preparation 2\2015.05.26 - Exam Preparation 2\03.SemanticHTML\bin\Debug\03.SemanticHTML.pdb
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.26 - Exam Preparation 2\2015.05.26 - Exam Preparation 2\03.SemanticHTML\obj\Debug\03.SemanticHTML.exe
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.26 - Exam Preparation 2\2015.05.26 - Exam Preparation 2\03.SemanticHTML\obj\Debug\03.SemanticHTML.pdb

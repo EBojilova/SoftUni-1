@@ -1,0 +1,8 @@
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.21 - Exam Preparation 1\2015.05.21 - Exam Preparation 1\02.ClearingCommands\bin\Debug\02.ClearingCommands.exe.config
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.21 - Exam Preparation 1\2015.05.21 - Exam Preparation 1\02.ClearingCommands\bin\Debug\02.ClearingCommands.exe
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.21 - Exam Preparation 1\2015.05.21 - Exam Preparation 1\02.ClearingCommands\bin\Debug\02.ClearingCommands.pdb
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.21 - Exam Preparation 1\2015.05.21 - Exam Preparation 1\02.ClearingCommands\obj\Debug\02.ClearingCommands.exe
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.21 - Exam Preparation 1\2015.05.21 - Exam Preparation 1\02.ClearingCommands\obj\Debug\02.ClearingCommands.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.21 - Exam Preparation 1\2015.05.21 - Exam Preparation 1\02.ClearingCommands\bin\Debug\02.ClearingCommands.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.21 - Exam Preparation 1\2015.05.21 - Exam Preparation 1\02.ClearingCommands\obj\Debug\02.ClearingCommands.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.21 - Exam Preparation 1\2015.05.21 - Exam Preparation 1\02.ClearingCommands\obj\Debug\02.ClearingCommands.pdb

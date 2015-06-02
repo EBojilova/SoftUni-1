@@ -1,0 +1,9 @@
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.31 - Advanced CSharp Exam\2015.05.31 - Advanced CSharp Exam\03.TextTransformer\bin\Debug\03.TextTransformer.exe.config
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.31 - Advanced CSharp Exam\2015.05.31 - Advanced CSharp Exam\03.TextTransformer\bin\Debug\03.TextTransformer.exe
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.31 - Advanced CSharp Exam\2015.05.31 - Advanced CSharp Exam\03.TextTransformer\bin\Debug\03.TextTransformer.pdb
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.31 - Advanced CSharp Exam\2015.05.31 - Advanced CSharp Exam\03.TextTransformer\obj\Debug\03.TextTransformer.csprojResolveAssemblyReference.cache
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.31 - Advanced CSharp Exam\2015.05.31 - Advanced CSharp Exam\03.TextTransformer\obj\Debug\03.TextTransformer.exe
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.31 - Advanced CSharp Exam\2015.05.31 - Advanced CSharp Exam\03.TextTransformer\obj\Debug\03.TextTransformer.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.31 - Advanced CSharp Exam\2015.05.31 - Advanced CSharp Exam\03.TextTransformer\bin\Debug\03.TextTransformer.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.31 - Advanced CSharp Exam\2015.05.31 - Advanced CSharp Exam\03.TextTransformer\obj\Debug\03.TextTransformer.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.31 - Advanced CSharp Exam\2015.05.31 - Advanced CSharp Exam\03.TextTransformer\obj\Debug\03.TextTransformer.pdb

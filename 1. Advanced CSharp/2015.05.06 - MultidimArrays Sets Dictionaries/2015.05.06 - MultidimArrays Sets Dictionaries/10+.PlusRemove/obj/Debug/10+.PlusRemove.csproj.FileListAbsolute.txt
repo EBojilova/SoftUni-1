@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - MultidimArrays Sets Dictionaries\2015.05.06 - MultidimArrays Sets Dictionaries\10+.PlusRemove\bin\Debug\10+.PlusRemove.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - MultidimArrays Sets Dictionaries\2015.05.06 - MultidimArrays Sets Dictionaries\10+.PlusRemove\bin\Debug\10+.PlusRemove.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - MultidimArrays Sets Dictionaries\2015.05.06 - MultidimArrays Sets Dictionaries\10+.PlusRemove\bin\Debug\10+.PlusRemove.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - MultidimArrays Sets Dictionaries\2015.05.06 - MultidimArrays Sets Dictionaries\10+.PlusRemove\obj\Debug\10+.PlusRemove.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - MultidimArrays Sets Dictionaries\2015.05.06 - MultidimArrays Sets Dictionaries\10+.PlusRemove\obj\Debug\10+.PlusRemove.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.06 - MultidimArrays Sets Dictionaries\2015.05.06 - MultidimArrays Sets Dictionaries\10+.PlusRemove\obj\Debug\10+.PlusRemove.pdb

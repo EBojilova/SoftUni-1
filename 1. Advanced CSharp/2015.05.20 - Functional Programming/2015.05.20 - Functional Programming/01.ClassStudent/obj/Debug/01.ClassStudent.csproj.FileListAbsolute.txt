@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\01.ClassStudent\bin\Debug\01.ClassStudent.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\01.ClassStudent\bin\Debug\01.ClassStudent.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\01.ClassStudent\bin\Debug\01.ClassStudent.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\01.ClassStudent\obj\Debug\01.ClassStudent.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\01.ClassStudent\obj\Debug\01.ClassStudent.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.20 - Functional Programming\2015.05.20 - Functional Programming\01.ClassStudent\obj\Debug\01.ClassStudent.pdb

@@ -1,0 +1,12 @@
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Regular Expressions\2015.05.11 - Regular Expressions\02.ReplaceATag\bin\Debug\02.ReplaceATag.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Regular Expressions\2015.05.11 - Regular Expressions\02.ReplaceATag\bin\Debug\02.ReplaceATag.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Regular Expressions\2015.05.11 - Regular Expressions\02.ReplaceATag\bin\Debug\02.ReplaceATag.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Regular Expressions\2015.05.11 - Regular Expressions\02.ReplaceATag\obj\Debug\02.ReplaceATag.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Regular Expressions\2015.05.11 - Regular Expressions\02.ReplaceATag\obj\Debug\02.ReplaceATag.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Regular Expressions\2015.05.11 - Regular Expressions\02.ReplaceATag\obj\Debug\02.ReplaceATag.pdb
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Regular Expressions\2015.05.11 - Regular Expressions\02.ReplaceATag\bin\Debug\02.ReplaceATag.exe.config
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Regular Expressions\2015.05.11 - Regular Expressions\02.ReplaceATag\obj\Debug\02.ReplaceATag.exe
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Regular Expressions\2015.05.11 - Regular Expressions\02.ReplaceATag\obj\Debug\02.ReplaceATag.pdb
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Regular Expressions\2015.05.11 - Regular Expressions\02.ReplaceATag\bin\Debug\02.ReplaceATag.exe
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Regular Expressions\2015.05.11 - Regular Expressions\02.ReplaceATag\bin\Debug\02.ReplaceATag.pdb
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Regular Expressions\2015.05.11 - Regular Expressions\02.ReplaceATag\obj\Debug\02.ReplaceATag.csprojResolveAssemblyReference.cache

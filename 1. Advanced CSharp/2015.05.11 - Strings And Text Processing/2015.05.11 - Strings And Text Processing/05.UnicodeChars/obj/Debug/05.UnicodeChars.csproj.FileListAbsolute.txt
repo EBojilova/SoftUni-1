@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Strings And Text Processing\2015.05.11 - Strings And Text Processing\05.UnicodeChars\bin\Debug\05.UnicodeChars.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Strings And Text Processing\2015.05.11 - Strings And Text Processing\05.UnicodeChars\bin\Debug\05.UnicodeChars.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Strings And Text Processing\2015.05.11 - Strings And Text Processing\05.UnicodeChars\bin\Debug\05.UnicodeChars.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Strings And Text Processing\2015.05.11 - Strings And Text Processing\05.UnicodeChars\obj\Debug\05.UnicodeChars.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Strings And Text Processing\2015.05.11 - Strings And Text Processing\05.UnicodeChars\obj\Debug\05.UnicodeChars.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.11 - Strings And Text Processing\2015.05.11 - Strings And Text Processing\05.UnicodeChars\obj\Debug\05.UnicodeChars.pdb

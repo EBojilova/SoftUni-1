@@ -1,0 +1,11 @@
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.31 - Advanced CSharp Exam\2015.05.31 - Advanced CSharp Exam\02.TargetPractice\bin\Debug\02.TargetPractice.exe.config
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.31 - Advanced CSharp Exam\2015.05.31 - Advanced CSharp Exam\02.TargetPractice\bin\Debug\02.TargetPractice.exe
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.31 - Advanced CSharp Exam\2015.05.31 - Advanced CSharp Exam\02.TargetPractice\bin\Debug\02.TargetPractice.pdb
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.31 - Advanced CSharp Exam\2015.05.31 - Advanced CSharp Exam\02.TargetPractice\obj\Debug\02.TargetPractice.exe
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.31 - Advanced CSharp Exam\2015.05.31 - Advanced CSharp Exam\02.TargetPractice\obj\Debug\02.TargetPractice.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.31 - Advanced CSharp Exam\2015.05.31 - Advanced CSharp Exam\02.TargetPractice\bin\Debug\02.TargetPractice.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.31 - Advanced CSharp Exam\2015.05.31 - Advanced CSharp Exam\02.TargetPractice\obj\Debug\02.TargetPractice.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.31 - Advanced CSharp Exam\2015.05.31 - Advanced CSharp Exam\02.TargetPractice\obj\Debug\02.TargetPractice.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.31 - Advanced CSharp Exam\2015.05.31 - Advanced CSharp Exam\02.TargetPractice\bin\Debug\02.TargetPractice.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.31 - Advanced CSharp Exam\2015.05.31 - Advanced CSharp Exam\02.TargetPractice\bin\Debug\02.TargetPractice.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.31 - Advanced CSharp Exam\2015.05.31 - Advanced CSharp Exam\02.TargetPractice\obj\Debug\02.TargetPractice.csprojResolveAssemblyReference.cache

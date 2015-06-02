@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\1. Advanced CSharp\Exam Preparation at home\Exam Preparation at home\21.ITVillage\bin\Debug\21.ITVillage.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\Exam Preparation at home\Exam Preparation at home\21.ITVillage\bin\Debug\21.ITVillage.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\Exam Preparation at home\Exam Preparation at home\21.ITVillage\bin\Debug\21.ITVillage.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\Exam Preparation at home\Exam Preparation at home\21.ITVillage\obj\Debug\21.ITVillage.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\1. Advanced CSharp\Exam Preparation at home\Exam Preparation at home\21.ITVillage\obj\Debug\21.ITVillage.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\Exam Preparation at home\Exam Preparation at home\21.ITVillage\obj\Debug\21.ITVillage.pdb

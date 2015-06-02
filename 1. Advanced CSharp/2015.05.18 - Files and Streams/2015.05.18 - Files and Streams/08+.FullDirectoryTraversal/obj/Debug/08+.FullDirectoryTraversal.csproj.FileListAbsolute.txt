@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.18 - Files and Streams\2015.05.18 - Files and Streams\08+.FullDirectoryTraversal\bin\Debug\08+.FullDirectoryTraversal.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.18 - Files and Streams\2015.05.18 - Files and Streams\08+.FullDirectoryTraversal\bin\Debug\08+.FullDirectoryTraversal.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.18 - Files and Streams\2015.05.18 - Files and Streams\08+.FullDirectoryTraversal\bin\Debug\08+.FullDirectoryTraversal.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.18 - Files and Streams\2015.05.18 - Files and Streams\08+.FullDirectoryTraversal\obj\Debug\08+.FullDirectoryTraversal.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.18 - Files and Streams\2015.05.18 - Files and Streams\08+.FullDirectoryTraversal\obj\Debug\08+.FullDirectoryTraversal.pdb

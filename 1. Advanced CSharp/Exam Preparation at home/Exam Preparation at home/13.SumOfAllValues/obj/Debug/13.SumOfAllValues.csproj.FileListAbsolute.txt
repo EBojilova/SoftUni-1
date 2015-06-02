@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\1. Advanced CSharp\Exam Preparation at home\Exam Preparation at home\13.SumOfAllValues\bin\Debug\13.SumOfAllValues.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\Exam Preparation at home\Exam Preparation at home\13.SumOfAllValues\bin\Debug\13.SumOfAllValues.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\Exam Preparation at home\Exam Preparation at home\13.SumOfAllValues\bin\Debug\13.SumOfAllValues.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\Exam Preparation at home\Exam Preparation at home\13.SumOfAllValues\obj\Debug\13.SumOfAllValues.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\1. Advanced CSharp\Exam Preparation at home\Exam Preparation at home\13.SumOfAllValues\obj\Debug\13.SumOfAllValues.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\Exam Preparation at home\Exam Preparation at home\13.SumOfAllValues\obj\Debug\13.SumOfAllValues.pdb

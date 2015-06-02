@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.04 - Arrays Lists Stacks Queues\2015.05.04 - Arrays Lists Stacks Queues\10+.PythagoreanNumbers\bin\Debug\10+.PythagoreanNumbers.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.04 - Arrays Lists Stacks Queues\2015.05.04 - Arrays Lists Stacks Queues\10+.PythagoreanNumbers\bin\Debug\10+.PythagoreanNumbers.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.04 - Arrays Lists Stacks Queues\2015.05.04 - Arrays Lists Stacks Queues\10+.PythagoreanNumbers\bin\Debug\10+.PythagoreanNumbers.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.04 - Arrays Lists Stacks Queues\2015.05.04 - Arrays Lists Stacks Queues\10+.PythagoreanNumbers\obj\Debug\10+.PythagoreanNumbers.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.04 - Arrays Lists Stacks Queues\2015.05.04 - Arrays Lists Stacks Queues\10+.PythagoreanNumbers\obj\Debug\10+.PythagoreanNumbers.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.04 - Arrays Lists Stacks Queues\2015.05.04 - Arrays Lists Stacks Queues\10+.PythagoreanNumbers\obj\Debug\10+.PythagoreanNumbers.pdb

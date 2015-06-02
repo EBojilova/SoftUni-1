@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.18 - Files and Streams\2015.05.18 - Files and Streams\02.LineNumbers\bin\Debug\02.LineNumbers.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.18 - Files and Streams\2015.05.18 - Files and Streams\02.LineNumbers\bin\Debug\02.LineNumbers.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.18 - Files and Streams\2015.05.18 - Files and Streams\02.LineNumbers\bin\Debug\02.LineNumbers.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.18 - Files and Streams\2015.05.18 - Files and Streams\02.LineNumbers\obj\Debug\02.LineNumbers.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.18 - Files and Streams\2015.05.18 - Files and Streams\02.LineNumbers\obj\Debug\02.LineNumbers.pdb

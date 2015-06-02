@@ -1,0 +1,6 @@
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.26 - Exam Preparation 2\2015.05.26 - Exam Preparation 2\02.X-Removal\bin\Debug\02.X-Removal.exe.config
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.26 - Exam Preparation 2\2015.05.26 - Exam Preparation 2\02.X-Removal\bin\Debug\02.X-Removal.exe
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.26 - Exam Preparation 2\2015.05.26 - Exam Preparation 2\02.X-Removal\bin\Debug\02.X-Removal.pdb
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.26 - Exam Preparation 2\2015.05.26 - Exam Preparation 2\02.X-Removal\obj\Debug\02.X-Removal.csprojResolveAssemblyReference.cache
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.26 - Exam Preparation 2\2015.05.26 - Exam Preparation 2\02.X-Removal\obj\Debug\02.X-Removal.exe
+C:\Users\gad\Dropbox\SoftUni\1. Advanced CSharp\2015.05.26 - Exam Preparation 2\2015.05.26 - Exam Preparation 2\02.X-Removal\obj\Debug\02.X-Removal.pdb

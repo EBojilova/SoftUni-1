@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.04 - Arrays Lists Stacks Queues\2015.05.04 - Arrays Lists Stacks Queues\03.CategorizeNumbers\bin\Debug\03.CategorizeNumbers.exe.config
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.04 - Arrays Lists Stacks Queues\2015.05.04 - Arrays Lists Stacks Queues\03.CategorizeNumbers\bin\Debug\03.CategorizeNumbers.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.04 - Arrays Lists Stacks Queues\2015.05.04 - Arrays Lists Stacks Queues\03.CategorizeNumbers\bin\Debug\03.CategorizeNumbers.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.04 - Arrays Lists Stacks Queues\2015.05.04 - Arrays Lists Stacks Queues\03.CategorizeNumbers\obj\Debug\03.CategorizeNumbers.exe
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.04 - Arrays Lists Stacks Queues\2015.05.04 - Arrays Lists Stacks Queues\03.CategorizeNumbers\obj\Debug\03.CategorizeNumbers.pdb
+D:\Dropbox\SoftUni\1. Advanced CSharp\2015.05.04 - Arrays Lists Stacks Queues\2015.05.04 - Arrays Lists Stacks Queues\03.CategorizeNumbers\obj\Debug\03.CategorizeNumbers.csprojResolveAssemblyReference.cache
