@@ -1,0 +1,6 @@
+F:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\03.PrimesAtGivenRange\bin\Debug\03.PrimesAtGivenRange.exe.config
+F:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\03.PrimesAtGivenRange\bin\Debug\03.PrimesAtGivenRange.exe
+F:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\03.PrimesAtGivenRange\bin\Debug\03.PrimesAtGivenRange.pdb
+F:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\03.PrimesAtGivenRange\obj\Debug\03.PrimesAtGivenRange.csprojResolveAssemblyReference.cache
+F:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\03.PrimesAtGivenRange\obj\Debug\03.PrimesAtGivenRange.exe
+F:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\03.PrimesAtGivenRange\obj\Debug\03.PrimesAtGivenRange.pdb

@@ -1,0 +1,5 @@
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\15+.NewHouse\bin\Debug\15+.NewHouse.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\15+.NewHouse\bin\Debug\15+.NewHouse.exe
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\15+.NewHouse\bin\Debug\15+.NewHouse.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\15+.NewHouse\obj\Debug\15+.NewHouse.exe
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\15+.NewHouse\obj\Debug\15+.NewHouse.pdb

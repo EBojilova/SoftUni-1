@@ -1,0 +1,5 @@
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.21\2.IntroductionToProgramming\1.PlayWithVisualStudio\bin\Debug\1.PlayWithVisualStudio.exe
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.21\2.IntroductionToProgramming\1.PlayWithVisualStudio\bin\Debug\1.PlayWithVisualStudio.pdb
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.21\2.IntroductionToProgramming\1.PlayWithVisualStudio\obj\Debug\1.PlayWithVisualStudio.csprojResolveAssemblyReference.cache
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.21\2.IntroductionToProgramming\1.PlayWithVisualStudio\obj\Debug\1.PlayWithVisualStudio.exe
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.21\2.IntroductionToProgramming\1.PlayWithVisualStudio\obj\Debug\1.PlayWithVisualStudio.pdb

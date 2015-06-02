@@ -1,0 +1,5 @@
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.21\2.IntroductionToProgramming\8.SquareRoot\bin\Debug\8.SquareRoot.exe.config
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.21\2.IntroductionToProgramming\8.SquareRoot\bin\Debug\8.SquareRoot.exe
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.21\2.IntroductionToProgramming\8.SquareRoot\bin\Debug\8.SquareRoot.pdb
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.21\2.IntroductionToProgramming\8.SquareRoot\obj\Debug\8.SquareRoot.exe
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.21\2.IntroductionToProgramming\8.SquareRoot\obj\Debug\8.SquareRoot.pdb

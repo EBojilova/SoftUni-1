@@ -1,0 +1,6 @@
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\07.CalculateExpression3\bin\Debug\07.CalculateExpression3.exe.config
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\07.CalculateExpression3\bin\Debug\07.CalculateExpression3.exe
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\07.CalculateExpression3\bin\Debug\07.CalculateExpression3.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\07.CalculateExpression3\obj\Debug\07.CalculateExpression3.exe
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\07.CalculateExpression3\obj\Debug\07.CalculateExpression3.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\07.CalculateExpression3\obj\Debug\07.CalculateExpression3.csprojResolveAssemblyReference.cache

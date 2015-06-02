@@ -1,0 +1,5 @@
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.21\2.IntroductionToProgramming\14.CurrentDateAndTime\bin\Debug\14.CurrentDateAndTime.exe.config
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.21\2.IntroductionToProgramming\14.CurrentDateAndTime\bin\Debug\14.CurrentDateAndTime.exe
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.21\2.IntroductionToProgramming\14.CurrentDateAndTime\bin\Debug\14.CurrentDateAndTime.pdb
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.21\2.IntroductionToProgramming\14.CurrentDateAndTime\obj\Debug\14.CurrentDateAndTime.exe
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.21\2.IntroductionToProgramming\14.CurrentDateAndTime\obj\Debug\14.CurrentDateAndTime.pdb

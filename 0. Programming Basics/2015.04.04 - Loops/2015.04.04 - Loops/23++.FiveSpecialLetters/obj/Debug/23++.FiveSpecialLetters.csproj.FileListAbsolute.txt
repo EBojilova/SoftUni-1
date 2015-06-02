@@ -1,0 +1,8 @@
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\23++.FiveSpecialLetters\bin\Debug\23++.FiveSpecialLetters.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\23++.FiveSpecialLetters\bin\Debug\23++.FiveSpecialLetters.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\23++.FiveSpecialLetters\bin\Debug\23++.FiveSpecialLetters.exe
+E:\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\23++.FiveSpecialLetters\bin\Debug\23++.FiveSpecialLetters.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\23++.FiveSpecialLetters\obj\Debug\23++.FiveSpecialLetters.exe
+E:\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\23++.FiveSpecialLetters\obj\Debug\23++.FiveSpecialLetters.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\23++.FiveSpecialLetters\obj\Debug\23++.FiveSpecialLetters.exe
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\23++.FiveSpecialLetters\obj\Debug\23++.FiveSpecialLetters.pdb

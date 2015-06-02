@@ -1,0 +1,8 @@
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\03.CheckForPlayCard\bin\Debug\03.CheckForPlayCard.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\03.CheckForPlayCard\bin\Debug\03.CheckForPlayCard.exe
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\03.CheckForPlayCard\bin\Debug\03.CheckForPlayCard.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\03.CheckForPlayCard\obj\Debug\03.CheckForPlayCard.exe
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\03.CheckForPlayCard\obj\Debug\03.CheckForPlayCard.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\03.CheckForPlayCard\bin\Debug\03.CheckForPlayCard.exe.config
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\03.CheckForPlayCard\obj\Debug\03.CheckForPlayCard.exe
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\03.CheckForPlayCard\obj\Debug\03.CheckForPlayCard.pdb

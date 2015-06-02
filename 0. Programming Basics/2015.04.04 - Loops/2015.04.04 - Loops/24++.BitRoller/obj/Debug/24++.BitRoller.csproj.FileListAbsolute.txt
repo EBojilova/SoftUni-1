@@ -1,0 +1,8 @@
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\24++.BitRoller\bin\Debug\24++.BitRoller.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\24++.BitRoller\bin\Debug\24++.BitRoller.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\24++.BitRoller\bin\Debug\24++.BitRoller.exe
+E:\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\24++.BitRoller\bin\Debug\24++.BitRoller.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\24++.BitRoller\obj\Debug\24++.BitRoller.exe
+E:\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\24++.BitRoller\obj\Debug\24++.BitRoller.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\24++.BitRoller\obj\Debug\24++.BitRoller.exe
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\24++.BitRoller\obj\Debug\24++.BitRoller.pdb

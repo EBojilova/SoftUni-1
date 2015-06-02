@@ -1,0 +1,5 @@
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.21\2.IntroductionToProgramming\5.PrintYourName\bin\Debug\5.PrintYourName.exe.config
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.21\2.IntroductionToProgramming\5.PrintYourName\bin\Debug\5.PrintYourName.exe
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.21\2.IntroductionToProgramming\5.PrintYourName\bin\Debug\5.PrintYourName.pdb
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.21\2.IntroductionToProgramming\5.PrintYourName\obj\Debug\5.PrintYourName.exe
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.21\2.IntroductionToProgramming\5.PrintYourName\obj\Debug\5.PrintYourName.pdb

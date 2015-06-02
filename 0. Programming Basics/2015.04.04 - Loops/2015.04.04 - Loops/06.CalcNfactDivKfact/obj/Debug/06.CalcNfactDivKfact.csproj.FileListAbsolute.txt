@@ -1,0 +1,6 @@
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\06.CalcNfactDivKfact\bin\Debug\06.CalcNfactDivKfact.exe.config
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\06.CalcNfactDivKfact\bin\Debug\06.CalcNfactDivKfact.exe
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\06.CalcNfactDivKfact\bin\Debug\06.CalcNfactDivKfact.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\06.CalcNfactDivKfact\obj\Debug\06.CalcNfactDivKfact.exe
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\06.CalcNfactDivKfact\obj\Debug\06.CalcNfactDivKfact.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\06.CalcNfactDivKfact\obj\Debug\06.CalcNfactDivKfact.csprojResolveAssemblyReference.cache

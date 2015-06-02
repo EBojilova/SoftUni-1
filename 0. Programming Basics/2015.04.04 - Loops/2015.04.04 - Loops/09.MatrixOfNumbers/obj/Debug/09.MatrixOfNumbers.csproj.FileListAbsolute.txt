@@ -1,0 +1,8 @@
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe.config
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.exe
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.exe
+E:\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.pdb

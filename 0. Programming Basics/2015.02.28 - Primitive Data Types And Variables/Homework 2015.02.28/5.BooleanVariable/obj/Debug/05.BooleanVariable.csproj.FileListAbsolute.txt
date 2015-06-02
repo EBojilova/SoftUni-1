@@ -1,0 +1,3 @@
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\5.BooleanVariable\bin\Debug\5.BooleanVariable.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\5.BooleanVariable\obj\Debug\5.BooleanVariable.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\5.BooleanVariable\obj\Debug\5.BooleanVariable.pdb

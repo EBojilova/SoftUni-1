@@ -1,0 +1,6 @@
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\test\bin\Debug\test.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\test\bin\Debug\test.exe
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\test\bin\Debug\test.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\test\obj\Debug\test.exe
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\test\obj\Debug\test.pdb

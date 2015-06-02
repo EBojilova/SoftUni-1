@@ -1,0 +1,5 @@
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\03.MinMaxSumAvg\bin\Debug\03.MinMaxSumAvg.exe.config
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\03.MinMaxSumAvg\bin\Debug\03.MinMaxSumAvg.exe
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\03.MinMaxSumAvg\bin\Debug\03.MinMaxSumAvg.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\03.MinMaxSumAvg\obj\Debug\03.MinMaxSumAvg.exe
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\03.MinMaxSumAvg\obj\Debug\03.MinMaxSumAvg.pdb

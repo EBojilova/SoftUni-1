@@ -1,0 +1,5 @@
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\02.NumsNotDivBy3and7\bin\Debug\02.NumsNotDivBy3and7.exe.config
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\02.NumsNotDivBy3and7\bin\Debug\02.NumsNotDivBy3and7.exe
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\02.NumsNotDivBy3and7\bin\Debug\02.NumsNotDivBy3and7.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\02.NumsNotDivBy3and7\obj\Debug\02.NumsNotDivBy3and7.exe
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\02.NumsNotDivBy3and7\obj\Debug\02.NumsNotDivBy3and7.pdb

@@ -1,0 +1,12 @@
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\12+.ZeroSubset\bin\Debug\12+.ZeroSubset.exe.config
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\12+.ZeroSubset\bin\Debug\12+.ZeroSubset.exe.config
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\12+.ZeroSubset\bin\Debug\12+.ZeroSubset.exe
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\12+.ZeroSubset\bin\Debug\12+.ZeroSubset.pdb
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\12+.ZeroSubset\obj\Debug\12+.ZeroSubset.csprojResolveAssemblyReference.cache
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\12+.ZeroSubset\obj\Debug\12+.ZeroSubset.exe
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\12+.ZeroSubset\obj\Debug\12+.ZeroSubset.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\12+.ZeroSubset\obj\Debug\12+.ZeroSubset.exe
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\12+.ZeroSubset\obj\Debug\12+.ZeroSubset.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\12+.ZeroSubset\bin\Debug\12+.ZeroSubset.exe
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\12+.ZeroSubset\bin\Debug\12+.ZeroSubset.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\12+.ZeroSubset\obj\Debug\12+.ZeroSubset.csprojResolveAssemblyReference.cache

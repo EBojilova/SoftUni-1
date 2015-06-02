@@ -1,0 +1,5 @@
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.14\1.MathForDevelopers\1.Factorials\bin\Debug\1.Factorials.exe
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.14\1.MathForDevelopers\1.Factorials\bin\Debug\1.Factorials.pdb
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.14\1.MathForDevelopers\1.Factorials\obj\Debug\1.Factorials.csprojResolveAssemblyReference.cache
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.14\1.MathForDevelopers\1.Factorials\obj\Debug\1.Factorials.exe
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.14\1.MathForDevelopers\1.Factorials\obj\Debug\1.Factorials.pdb

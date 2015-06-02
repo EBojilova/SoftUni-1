@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\15.ExtractURLsFromText\bin\Debug\15.ExtractURLsFromText.exe.config
+D:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\15.ExtractURLsFromText\bin\Debug\15.ExtractURLsFromText.exe
+D:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\15.ExtractURLsFromText\bin\Debug\15.ExtractURLsFromText.pdb
+D:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\15.ExtractURLsFromText\obj\Debug\15.ExtractURLsFromText.exe
+D:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\15.ExtractURLsFromText\obj\Debug\15.ExtractURLsFromText.pdb

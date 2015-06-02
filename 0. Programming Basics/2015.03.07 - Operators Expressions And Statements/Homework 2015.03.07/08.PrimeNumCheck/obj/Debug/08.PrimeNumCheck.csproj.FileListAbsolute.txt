@@ -1,0 +1,6 @@
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\08.PrimeNumCheck\bin\Debug\08.PrimeNumCheck.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\08.PrimeNumCheck\bin\Debug\08.PrimeNumCheck.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\08.PrimeNumCheck\bin\Debug\08.PrimeNumCheck.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\08.PrimeNumCheck\obj\Debug\08.PrimeNumCheck.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\08.PrimeNumCheck\obj\Debug\08.PrimeNumCheck.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\08.PrimeNumCheck\obj\Debug\08.PrimeNumCheck.csprojResolveAssemblyReference.cache

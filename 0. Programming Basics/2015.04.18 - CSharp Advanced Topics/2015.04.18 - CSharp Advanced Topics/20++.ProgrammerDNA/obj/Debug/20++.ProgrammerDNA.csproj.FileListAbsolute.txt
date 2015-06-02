@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\20++.ProgrammerDNA\bin\Debug\20++.ProgrammerDNA.exe.config
+D:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\20++.ProgrammerDNA\bin\Debug\20++.ProgrammerDNA.exe
+D:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\20++.ProgrammerDNA\bin\Debug\20++.ProgrammerDNA.pdb
+D:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\20++.ProgrammerDNA\obj\Debug\20++.ProgrammerDNA.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\20++.ProgrammerDNA\obj\Debug\20++.ProgrammerDNA.exe
+D:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\20++.ProgrammerDNA\obj\Debug\20++.ProgrammerDNA.pdb

@@ -1,0 +1,8 @@
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\05.CalculateExpression1\bin\Debug\05.CalculateExpression1.exe.config
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\05.CalculateExpression1\bin\Debug\05.CalculateExpression1.exe
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\05.CalculateExpression1\bin\Debug\05.CalculateExpression1.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\05.CalculateExpression1\obj\Debug\05.CalculateExpression1.exe
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\05.CalculateExpression1\obj\Debug\05.CalculateExpression1.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\05.CalculateExpression1\bin\Debug\05.CalculateExpression1.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\05.CalculateExpression1\obj\Debug\05.CalculateExpression1.exe
+E:\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\05.CalculateExpression1\obj\Debug\05.CalculateExpression1.pdb

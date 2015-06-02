@@ -1,0 +1,5 @@
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\10.PointInCircleAndOutOfRectangle\bin\Debug\10.PointInCircleAndOutOfRectangle.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\10.PointInCircleAndOutOfRectangle\bin\Debug\10.PointInCircleAndOutOfRectangle.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\10.PointInCircleAndOutOfRectangle\bin\Debug\10.PointInCircleAndOutOfRectangle.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\10.PointInCircleAndOutOfRectangle\obj\Debug\10.PointInCircleAndOutOfRectangle.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\10.PointInCircleAndOutOfRectangle\obj\Debug\10.PointInCircleAndOutOfRectangle.pdb

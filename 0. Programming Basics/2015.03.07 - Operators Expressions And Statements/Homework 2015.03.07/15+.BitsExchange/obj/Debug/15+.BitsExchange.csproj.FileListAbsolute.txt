@@ -1,0 +1,6 @@
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\15+.BitsExchange\bin\Debug\15+.BitsExchange.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\15+.BitsExchange\bin\Debug\15+.BitsExchange.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\15+.BitsExchange\bin\Debug\15+.BitsExchange.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\15+.BitsExchange\obj\Debug\15+.BitsExchange.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\15+.BitsExchange\obj\Debug\15+.BitsExchange.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\15+.BitsExchange\obj\Debug\15+.BitsExchange.pdb

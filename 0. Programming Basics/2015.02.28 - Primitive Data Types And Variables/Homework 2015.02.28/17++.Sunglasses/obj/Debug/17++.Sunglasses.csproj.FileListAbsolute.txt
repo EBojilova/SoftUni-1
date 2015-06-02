@@ -1,0 +1,5 @@
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\17++.Sunglasses\bin\Debug\17++.Sunglasses.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\17++.Sunglasses\bin\Debug\17++.Sunglasses.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\17++.Sunglasses\bin\Debug\17++.Sunglasses.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\17++.Sunglasses\obj\Debug\17++.Sunglasses.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\17++.Sunglasses\obj\Debug\17++.Sunglasses.pdb

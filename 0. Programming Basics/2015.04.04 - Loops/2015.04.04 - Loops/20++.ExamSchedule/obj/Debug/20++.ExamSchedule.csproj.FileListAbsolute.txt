@@ -1,0 +1,9 @@
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\20++.ExamSchedule\bin\Debug\20++.ExamSchedule.exe.config
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\20++.ExamSchedule\bin\Debug\20++.ExamSchedule.exe
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\20++.ExamSchedule\bin\Debug\20++.ExamSchedule.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\20++.ExamSchedule\obj\Debug\20++.ExamSchedule.csprojResolveAssemblyReference.cache
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\20++.ExamSchedule\obj\Debug\20++.ExamSchedule.exe
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\20++.ExamSchedule\obj\Debug\20++.ExamSchedule.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\20++.ExamSchedule\bin\Debug\20++.ExamSchedule.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\20++.ExamSchedule\obj\Debug\20++.ExamSchedule.exe
+E:\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\20++.ExamSchedule\obj\Debug\20++.ExamSchedule.pdb

@@ -1,0 +1,6 @@
+F:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\02.PrimeChecker\bin\Debug\02.PrimeChecker.exe.config
+F:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\02.PrimeChecker\bin\Debug\02.PrimeChecker.exe
+F:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\02.PrimeChecker\bin\Debug\02.PrimeChecker.pdb
+F:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\02.PrimeChecker\obj\Debug\02.PrimeChecker.exe
+F:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\02.PrimeChecker\obj\Debug\02.PrimeChecker.pdb
+F:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\02.PrimeChecker\obj\Debug\02.PrimeChecker.csprojResolveAssemblyReference.cache

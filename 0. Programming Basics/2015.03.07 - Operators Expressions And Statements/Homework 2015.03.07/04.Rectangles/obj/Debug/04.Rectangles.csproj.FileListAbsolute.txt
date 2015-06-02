@@ -1,0 +1,5 @@
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\04.Rectangles\bin\Debug\04.Rectangles.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\04.Rectangles\bin\Debug\04.Rectangles.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\04.Rectangles\bin\Debug\04.Rectangles.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\04.Rectangles\obj\Debug\04.Rectangles.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\04.Rectangles\obj\Debug\04.Rectangles.pdb

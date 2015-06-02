@@ -1,0 +1,9 @@
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\19++.TheExplorer\bin\Debug\19++.TheExplorer.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\19++.TheExplorer\bin\Debug\19++.TheExplorer.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\19++.TheExplorer\bin\Debug\19++.TheExplorer.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\19++.TheExplorer\obj\Debug\19++.TheExplorer.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\19++.TheExplorer\obj\Debug\19++.TheExplorer.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\19++.TheExplorer\obj\Debug\19++.TheExplorer.pdb
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\2015.03.07 - Operators Expressions And Statements\Homework 2015.03.07\19++.TheExplorer\bin\Debug\19++.TheExplorer.exe.config
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\2015.03.07 - Operators Expressions And Statements\Homework 2015.03.07\19++.TheExplorer\obj\Debug\19++.TheExplorer.exe
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\2015.03.07 - Operators Expressions And Statements\Homework 2015.03.07\19++.TheExplorer\obj\Debug\19++.TheExplorer.pdb

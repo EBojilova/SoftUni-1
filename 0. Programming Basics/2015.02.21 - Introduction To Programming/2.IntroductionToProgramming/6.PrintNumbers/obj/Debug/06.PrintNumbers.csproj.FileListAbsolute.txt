@@ -1,0 +1,3 @@
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.21\2.IntroductionToProgramming\6.PrintNumbers\bin\Debug\6.PrintNumbers.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.21\2.IntroductionToProgramming\6.PrintNumbers\obj\Debug\6.PrintNumbers.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.21\2.IntroductionToProgramming\6.PrintNumbers\obj\Debug\6.PrintNumbers.pdb

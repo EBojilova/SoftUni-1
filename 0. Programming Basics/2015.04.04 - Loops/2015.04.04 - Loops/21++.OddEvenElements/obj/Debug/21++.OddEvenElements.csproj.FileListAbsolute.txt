@@ -1,0 +1,7 @@
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\21++.OddEvenElements\bin\Debug\21++.OddEvenElements.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\21++.OddEvenElements\bin\Debug\21++.OddEvenElements.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\21++.OddEvenElements\bin\Debug\21++.OddEvenElements.exe
+E:\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\21++.OddEvenElements\bin\Debug\21++.OddEvenElements.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\21++.OddEvenElements\obj\Debug\21++.OddEvenElements.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\21++.OddEvenElements\obj\Debug\21++.OddEvenElements.exe
+E:\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\21++.OddEvenElements\obj\Debug\21++.OddEvenElements.pdb

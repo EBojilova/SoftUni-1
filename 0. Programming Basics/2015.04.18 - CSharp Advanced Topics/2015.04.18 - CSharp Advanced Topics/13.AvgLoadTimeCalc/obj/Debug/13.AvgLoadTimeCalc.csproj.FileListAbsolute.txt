@@ -1,0 +1,12 @@
+D:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\13.AvgLoadTimeCalc\bin\Debug\13.AvgLoadTimeCalc.exe.config
+D:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\13.AvgLoadTimeCalc\bin\Debug\13.AvgLoadTimeCalc.exe
+D:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\13.AvgLoadTimeCalc\bin\Debug\13.AvgLoadTimeCalc.pdb
+D:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\13.AvgLoadTimeCalc\obj\Debug\13.AvgLoadTimeCalc.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\13.AvgLoadTimeCalc\obj\Debug\13.AvgLoadTimeCalc.exe
+D:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\13.AvgLoadTimeCalc\obj\Debug\13.AvgLoadTimeCalc.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\13.AvgLoadTimeCalc\bin\Debug\13.AvgLoadTimeCalc.exe.config
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\13.AvgLoadTimeCalc\obj\Debug\13.AvgLoadTimeCalc.exe
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\13.AvgLoadTimeCalc\obj\Debug\13.AvgLoadTimeCalc.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\13.AvgLoadTimeCalc\obj\Debug\13.AvgLoadTimeCalc.csprojResolveAssemblyReference.cache
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\13.AvgLoadTimeCalc\bin\Debug\13.AvgLoadTimeCalc.exe
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\13.AvgLoadTimeCalc\bin\Debug\13.AvgLoadTimeCalc.pdb

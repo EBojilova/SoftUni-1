@@ -1,0 +1,5 @@
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\02.PrintCompanyInfo\bin\Debug\02.PrintCompanyInfo.exe.config
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\02.PrintCompanyInfo\bin\Debug\02.PrintCompanyInfo.exe
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\02.PrintCompanyInfo\bin\Debug\02.PrintCompanyInfo.pdb
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\02.PrintCompanyInfo\obj\Debug\02.PrintCompanyInfo.exe
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\02.PrintCompanyInfo\obj\Debug\02.PrintCompanyInfo.pdb

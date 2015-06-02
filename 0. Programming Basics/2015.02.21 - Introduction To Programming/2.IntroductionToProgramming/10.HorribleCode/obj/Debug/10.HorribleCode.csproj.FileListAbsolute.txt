@@ -1,0 +1,5 @@
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.21\2.IntroductionToProgramming\10.HorribleCode\bin\Debug\10.HorribleCode.exe.config
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.21\2.IntroductionToProgramming\10.HorribleCode\bin\Debug\10.HorribleCode.exe
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.21\2.IntroductionToProgramming\10.HorribleCode\bin\Debug\10.HorribleCode.pdb
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.21\2.IntroductionToProgramming\10.HorribleCode\obj\Debug\10.HorribleCode.exe
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.21\2.IntroductionToProgramming\10.HorribleCode\obj\Debug\10.HorribleCode.pdb

@@ -1,0 +1,5 @@
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\02.BonusScore\bin\Debug\02.BonusScore.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\02.BonusScore\bin\Debug\02.BonusScore.exe
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\02.BonusScore\bin\Debug\02.BonusScore.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\02.BonusScore\obj\Debug\02.BonusScore.exe
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\02.BonusScore\obj\Debug\02.BonusScore.pdb

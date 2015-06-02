@@ -1,0 +1,6 @@
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\09.RemoveNames\bin\Debug\09.RemoveNames.exe.config
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\09.RemoveNames\bin\Debug\09.RemoveNames.exe
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\09.RemoveNames\bin\Debug\09.RemoveNames.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\09.RemoveNames\obj\Debug\09.RemoveNames.csprojResolveAssemblyReference.cache
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\09.RemoveNames\obj\Debug\09.RemoveNames.exe
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\09.RemoveNames\obj\Debug\09.RemoveNames.pdb

@@ -1,0 +1,6 @@
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\15+.JoroTheFootballPlayer\bin\Debug\15+.JoroTheFootballPlayer.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\15+.JoroTheFootballPlayer\bin\Debug\15+.JoroTheFootballPlayer.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\15+.JoroTheFootballPlayer\bin\Debug\15+.JoroTheFootballPlayer.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\15+.JoroTheFootballPlayer\obj\Debug\15+.JoroTheFootballPlayer.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\15+.JoroTheFootballPlayer\obj\Debug\15+.JoroTheFootballPlayer.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\15+.JoroTheFootballPlayer\obj\Debug\15+.JoroTheFootballPlayer.pdb

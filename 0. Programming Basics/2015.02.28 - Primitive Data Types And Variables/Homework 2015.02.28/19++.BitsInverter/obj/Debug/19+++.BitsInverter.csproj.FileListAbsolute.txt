@@ -1,0 +1,6 @@
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\19++.BitsInverter\bin\Debug\19++.BitsInverter.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\19++.BitsInverter\bin\Debug\19++.BitsInverter.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\19++.BitsInverter\bin\Debug\19++.BitsInverter.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\19++.BitsInverter\obj\Debug\19+++.BitsInverter.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\19++.BitsInverter\obj\Debug\19++.BitsInverter.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\19++.BitsInverter\obj\Debug\19++.BitsInverter.pdb

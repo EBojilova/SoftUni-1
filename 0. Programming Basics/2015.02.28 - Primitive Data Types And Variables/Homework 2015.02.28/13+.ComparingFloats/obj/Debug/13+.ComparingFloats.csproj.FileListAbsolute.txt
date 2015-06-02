@@ -1,0 +1,5 @@
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\13+.ComparingFloats\bin\Debug\13+.ComparingFloats.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\13+.ComparingFloats\bin\Debug\13+.ComparingFloats.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\13+.ComparingFloats\bin\Debug\13+.ComparingFloats.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\13+.ComparingFloats\obj\Debug\13+.ComparingFloats.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\13+.ComparingFloats\obj\Debug\13+.ComparingFloats.pdb

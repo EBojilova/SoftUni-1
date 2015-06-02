@@ -1,0 +1,5 @@
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\10.EmployeeData\bin\Debug\10.EmployeeData.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\10.EmployeeData\bin\Debug\10.EmployeeData.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\10.EmployeeData\bin\Debug\10.EmployeeData.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\10.EmployeeData\obj\Debug\10.EmployeeData.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\10.EmployeeData\obj\Debug\10.EmployeeData.pdb

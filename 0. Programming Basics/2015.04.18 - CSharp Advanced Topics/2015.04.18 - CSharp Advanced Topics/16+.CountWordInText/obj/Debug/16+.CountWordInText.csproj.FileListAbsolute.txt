@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\16+.CountWordInText\bin\Debug\16+.CountWordInText.exe.config
+D:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\16+.CountWordInText\bin\Debug\16+.CountWordInText.exe
+D:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\16+.CountWordInText\bin\Debug\16+.CountWordInText.pdb
+D:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\16+.CountWordInText\obj\Debug\16+.CountWordInText.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\16+.CountWordInText\obj\Debug\16+.CountWordInText.exe
+D:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\16+.CountWordInText\obj\Debug\16+.CountWordInText.pdb

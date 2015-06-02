@@ -1,0 +1,5 @@
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\3.VariableInHexFormat\bin\Debug\3.VariableInHexFormat.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\3.VariableInHexFormat\bin\Debug\3.VariableInHexFormat.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\3.VariableInHexFormat\bin\Debug\3.VariableInHexFormat.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\3.VariableInHexFormat\obj\Debug\3.VariableInHexFormat.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\3.VariableInHexFormat\obj\Debug\3.VariableInHexFormat.pdb

@@ -1,0 +1,5 @@
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\04.PrintDeck52Cards\bin\Debug\04.PrintDeck52Cards.exe.config
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\04.PrintDeck52Cards\bin\Debug\04.PrintDeck52Cards.exe
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\04.PrintDeck52Cards\bin\Debug\04.PrintDeck52Cards.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\04.PrintDeck52Cards\obj\Debug\04.PrintDeck52Cards.exe
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\04.PrintDeck52Cards\obj\Debug\04.PrintDeck52Cards.pdb

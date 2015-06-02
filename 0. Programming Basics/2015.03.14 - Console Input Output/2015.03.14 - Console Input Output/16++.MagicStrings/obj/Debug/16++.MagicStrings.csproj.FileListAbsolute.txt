@@ -1,0 +1,6 @@
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\16++.MagicStrings\bin\Debug\16++.MagicStrings.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\16++.MagicStrings\bin\Debug\16++.MagicStrings.exe
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\16++.MagicStrings\bin\Debug\16++.MagicStrings.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\16++.MagicStrings\obj\Debug\16++.MagicStrings.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\16++.MagicStrings\obj\Debug\16++.MagicStrings.exe
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\16++.MagicStrings\obj\Debug\16++.MagicStrings.pdb

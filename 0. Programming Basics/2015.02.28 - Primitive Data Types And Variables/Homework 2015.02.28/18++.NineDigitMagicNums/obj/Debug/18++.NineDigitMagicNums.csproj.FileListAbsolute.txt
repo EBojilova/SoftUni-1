@@ -1,0 +1,5 @@
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\18++.NineDigitMagicNums\bin\Debug\18++.NineDigitMagicNums.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\18++.NineDigitMagicNums\bin\Debug\18++.NineDigitMagicNums.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\18++.NineDigitMagicNums\bin\Debug\18++.NineDigitMagicNums.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\18++.NineDigitMagicNums\obj\Debug\18++.NineDigitMagicNums.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\18++.NineDigitMagicNums\obj\Debug\18++.NineDigitMagicNums.pdb

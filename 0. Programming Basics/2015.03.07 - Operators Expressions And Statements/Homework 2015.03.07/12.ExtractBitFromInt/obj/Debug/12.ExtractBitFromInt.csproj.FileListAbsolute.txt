@@ -1,0 +1,5 @@
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\12.ExtractBitFromInt\bin\Debug\12.ExtractBitFromInt.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\12.ExtractBitFromInt\bin\Debug\12.ExtractBitFromInt.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\12.ExtractBitFromInt\bin\Debug\12.ExtractBitFromInt.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\12.ExtractBitFromInt\obj\Debug\12.ExtractBitFromInt.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\12.ExtractBitFromInt\obj\Debug\12.ExtractBitFromInt.pdb

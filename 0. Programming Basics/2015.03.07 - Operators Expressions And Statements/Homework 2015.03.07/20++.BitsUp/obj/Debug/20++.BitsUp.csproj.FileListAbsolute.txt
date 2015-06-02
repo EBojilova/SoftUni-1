@@ -1,0 +1,6 @@
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\20++.BitsUp\bin\Debug\20++.BitsUp.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\20++.BitsUp\bin\Debug\20++.BitsUp.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\20++.BitsUp\bin\Debug\20++.BitsUp.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\20++.BitsUp\obj\Debug\20++.BitsUp.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\20++.BitsUp\obj\Debug\20++.BitsUp.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\20++.BitsUp\obj\Debug\20++.BitsUp.pdb

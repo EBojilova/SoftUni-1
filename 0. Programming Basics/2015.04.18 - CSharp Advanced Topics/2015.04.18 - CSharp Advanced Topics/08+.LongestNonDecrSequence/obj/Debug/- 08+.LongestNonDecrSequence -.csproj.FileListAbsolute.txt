@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\08+.LongestNonDecrSequence\bin\Debug\08+.LongestNonDecrSequence.exe.config
+D:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\08+.LongestNonDecrSequence\bin\Debug\08+.LongestNonDecrSequence.exe
+D:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\08+.LongestNonDecrSequence\bin\Debug\08+.LongestNonDecrSequence.pdb
+D:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\08+.LongestNonDecrSequence\obj\Debug\- 08+.LongestNonDecrSequence -.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\08+.LongestNonDecrSequence\obj\Debug\08+.LongestNonDecrSequence.exe
+D:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\08+.LongestNonDecrSequence\obj\Debug\08+.LongestNonDecrSequence.pdb

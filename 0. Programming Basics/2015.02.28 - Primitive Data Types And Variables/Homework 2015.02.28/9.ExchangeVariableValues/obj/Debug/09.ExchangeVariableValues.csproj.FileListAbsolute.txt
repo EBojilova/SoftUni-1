@@ -1,0 +1,3 @@
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\9.ExchangeVariableValues\bin\Debug\9.ExchangeVariableValues.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\9.ExchangeVariableValues\obj\Debug\9.ExchangeVariableValues.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\9.ExchangeVariableValues\obj\Debug\9.ExchangeVariableValues.pdb

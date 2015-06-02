@@ -1,0 +1,5 @@
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\03.CirclePerimeterArea\bin\Debug\03.CirclePerimeterArea.exe.config
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\03.CirclePerimeterArea\bin\Debug\03.CirclePerimeterArea.exe
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\03.CirclePerimeterArea\bin\Debug\03.CirclePerimeterArea.pdb
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\03.CirclePerimeterArea\obj\Debug\03.CirclePerimeterArea.exe
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\03.CirclePerimeterArea\obj\Debug\03.CirclePerimeterArea.pdb

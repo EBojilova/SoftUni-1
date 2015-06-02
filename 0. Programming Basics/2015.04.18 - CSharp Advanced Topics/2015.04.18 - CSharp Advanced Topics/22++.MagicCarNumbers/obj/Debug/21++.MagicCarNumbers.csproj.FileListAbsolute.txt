@@ -1,0 +1,3 @@
+D:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\22++.MagicCarNumbers\bin\Debug\22++.MagicCarNumbers.exe.config
+D:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\22++.MagicCarNumbers\obj\Debug\22++.MagicCarNumbers.exe
+D:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\22++.MagicCarNumbers\obj\Debug\22++.MagicCarNumbers.pdb

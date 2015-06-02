@@ -1,0 +1,9 @@
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.exe
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.csprojResolveAssemblyReference.cache
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe.config
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.exe
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\18+.Trailing0sinNFactorial\bin\Debug\18+.Trailing0sinNFactorial.exe.config
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\18+.Trailing0sinNFactorial\bin\Debug\18+.Trailing0sinNFactorial.exe
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\18+.Trailing0sinNFactorial\bin\Debug\18+.Trailing0sinNFactorial.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\18+.Trailing0sinNFactorial\obj\Debug\18+.Trailing0sinNFactorial.csprojResolveAssemblyReference.cache
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\18+.Trailing0sinNFactorial\obj\Debug\18+.Trailing0sinNFactorial.exe
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.04.04 - Loops\2015.04.04 - Loops\18+.Trailing0sinNFactorial\obj\Debug\18+.Trailing0sinNFactorial.pdb

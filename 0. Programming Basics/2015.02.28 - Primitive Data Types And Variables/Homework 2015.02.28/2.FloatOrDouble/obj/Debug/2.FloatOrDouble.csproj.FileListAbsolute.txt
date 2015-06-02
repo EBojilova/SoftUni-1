@@ -1,0 +1,5 @@
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\2.FloatOrDouble\bin\Debug\2.FloatOrDouble.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\2.FloatOrDouble\bin\Debug\2.FloatOrDouble.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\2.FloatOrDouble\bin\Debug\2.FloatOrDouble.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\2.FloatOrDouble\obj\Debug\2.FloatOrDouble.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\2.FloatOrDouble\obj\Debug\2.FloatOrDouble.pdb

@@ -1,0 +1,5 @@
+F:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\07.MatrixOfPalindromes\bin\Debug\07.MatrixOfPalindromes.exe.config
+F:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\07.MatrixOfPalindromes\bin\Debug\07.MatrixOfPalindromes.exe
+F:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\07.MatrixOfPalindromes\bin\Debug\07.MatrixOfPalindromes.pdb
+F:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\07.MatrixOfPalindromes\obj\Debug\07.MatrixOfPalindromes.exe
+F:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\07.MatrixOfPalindromes\obj\Debug\07.MatrixOfPalindromes.pdb

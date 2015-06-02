@@ -1,0 +1,9 @@
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.exe
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe.config
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.exe
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.pdb

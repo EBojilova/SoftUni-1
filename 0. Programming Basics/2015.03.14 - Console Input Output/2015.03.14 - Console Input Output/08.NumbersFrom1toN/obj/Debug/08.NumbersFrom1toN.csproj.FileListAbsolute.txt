@@ -1,0 +1,5 @@
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\08.NumbersFrom1toN\bin\Debug\08.NumbersFrom1toN.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\08.NumbersFrom1toN\bin\Debug\08.NumbersFrom1toN.exe
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\08.NumbersFrom1toN\bin\Debug\08.NumbersFrom1toN.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\08.NumbersFrom1toN\obj\Debug\08.NumbersFrom1toN.exe
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\08.NumbersFrom1toN\obj\Debug\08.NumbersFrom1toN.pdb

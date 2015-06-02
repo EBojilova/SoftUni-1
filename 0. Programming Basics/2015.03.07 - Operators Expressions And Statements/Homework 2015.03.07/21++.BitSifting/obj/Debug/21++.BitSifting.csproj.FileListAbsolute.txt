@@ -1,0 +1,12 @@
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\21++.BitSifting\bin\Debug\21++.BitSifting.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\21++.BitSifting\bin\Debug\21++.BitSifting.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\21++.BitSifting\bin\Debug\21++.BitSifting.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\21++.BitSifting\obj\Debug\21++.BitSifting.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\21++.BitSifting\obj\Debug\21++.BitSifting.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\21++.BitSifting\obj\Debug\21++.BitSifting.pdb
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\2015.03.07 - Operators Expressions And Statements\Homework 2015.03.07\21++.BitSifting\bin\Debug\21++.BitSifting.exe.config
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\2015.03.07 - Operators Expressions And Statements\Homework 2015.03.07\21++.BitSifting\obj\Debug\21++.BitSifting.exe
+C:\Users\gad\Dropbox\SoftUni\00. Programming Basics\2015.03.07 - Operators Expressions And Statements\Homework 2015.03.07\21++.BitSifting\obj\Debug\21++.BitSifting.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.07 - Operators Expressions And Statements\Homework 2015.03.07\21++.BitSifting\bin\Debug\21++.BitSifting.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.07 - Operators Expressions And Statements\Homework 2015.03.07\21++.BitSifting\obj\Debug\21++.BitSifting.exe
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.07 - Operators Expressions And Statements\Homework 2015.03.07\21++.BitSifting\obj\Debug\21++.BitSifting.pdb

@@ -1,0 +1,8 @@
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.exe
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.exe
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.exe.config
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.exe
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.pdb

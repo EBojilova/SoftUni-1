@@ -1,0 +1,6 @@
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\10.BeerTime\bin\Debug\10.BeerTime.exe.config
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\10.BeerTime\bin\Debug\10.BeerTime.exe
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\10.BeerTime\bin\Debug\10.BeerTime.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\10.BeerTime\obj\Debug\10.BeerTime.exe
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\10.BeerTime\obj\Debug\10.BeerTime.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.03.28 - Conditional Statements\2015.03.28 - Conditional Statements\10.BeerTime\obj\Debug\10.BeerTime.csprojResolveAssemblyReference.cache

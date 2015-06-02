@@ -1,0 +1,5 @@
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\14+.PrintASCIITable\bin\Debug\14+.PrintASCIITable.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\14+.PrintASCIITable\bin\Debug\14+.PrintASCIITable.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\14+.PrintASCIITable\bin\Debug\14+.PrintASCIITable.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\14+.PrintASCIITable\obj\Debug\14+.PrintASCIITable.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.02.28\Homework 2015.02.28\14+.PrintASCIITable\obj\Debug\14+.PrintASCIITable.pdb

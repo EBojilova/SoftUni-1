@@ -1,0 +1,5 @@
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\07.PointInACircle\bin\Debug\07.PointInACircle.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\07.PointInACircle\bin\Debug\07.PointInACircle.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\07.PointInACircle\bin\Debug\07.PointInACircle.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\07.PointInACircle\obj\Debug\07.PointInACircle.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\07.PointInACircle\obj\Debug\07.PointInACircle.pdb

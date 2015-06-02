@@ -1,0 +1,9 @@
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.exe
+E:\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe.config
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.exe
+C:\Users\tahchiis\Dropbox\SoftUni\00. Programming Basics\2015.03.14 - Console Input Output\2015.03.14 - Console Input Output\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.pdb

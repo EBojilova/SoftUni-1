@@ -1,0 +1,5 @@
+F:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\05.SortingNumbers\bin\Debug\05.SortingNumbers.exe.config
+F:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\05.SortingNumbers\bin\Debug\05.SortingNumbers.exe
+F:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\05.SortingNumbers\bin\Debug\05.SortingNumbers.pdb
+F:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\05.SortingNumbers\obj\Debug\05.SortingNumbers.exe
+F:\Dropbox\SoftUni\00. Programming Basics\2015.04.18 - CSharp Advanced Topics\2015.04.18 - CSharp Advanced Topics\05.SortingNumbers\obj\Debug\05.SortingNumbers.pdb

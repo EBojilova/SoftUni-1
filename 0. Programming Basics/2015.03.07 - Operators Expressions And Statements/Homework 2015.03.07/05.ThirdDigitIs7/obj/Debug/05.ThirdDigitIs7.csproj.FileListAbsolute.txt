@@ -1,0 +1,5 @@
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.exe.config
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.pdb
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.exe
+E:\Dropbox\SoftUni\00. Programming Basics\Homework 2015.03.07\Homework 2015.03.07\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.pdb
