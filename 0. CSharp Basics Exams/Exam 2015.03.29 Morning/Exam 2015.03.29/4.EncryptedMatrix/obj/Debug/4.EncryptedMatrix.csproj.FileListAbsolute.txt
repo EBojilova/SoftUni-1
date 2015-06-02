@@ -1,0 +1,6 @@
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Morning\Exam 2015.03.29\4.EncryptedMatrix\bin\Debug\4.EncryptedMatrix.exe.config
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Morning\Exam 2015.03.29\4.EncryptedMatrix\bin\Debug\4.EncryptedMatrix.exe
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Morning\Exam 2015.03.29\4.EncryptedMatrix\bin\Debug\4.EncryptedMatrix.pdb
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Morning\Exam 2015.03.29\4.EncryptedMatrix\obj\Debug\4.EncryptedMatrix.csprojResolveAssemblyReference.cache
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Morning\Exam 2015.03.29\4.EncryptedMatrix\obj\Debug\4.EncryptedMatrix.exe
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Morning\Exam 2015.03.29\4.EncryptedMatrix\obj\Debug\4.EncryptedMatrix.pdb

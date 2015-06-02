@@ -1,0 +1,6 @@
+E:\Dropbox\SoftUni\Exam 2014.11.08\Exam 2014.11.08\5.BitBuilder\bin\Debug\5.BitBuilder.exe.config
+E:\Dropbox\SoftUni\Exam 2014.11.08\Exam 2014.11.08\5.BitBuilder\bin\Debug\5.BitBuilder.exe
+E:\Dropbox\SoftUni\Exam 2014.11.08\Exam 2014.11.08\5.BitBuilder\bin\Debug\5.BitBuilder.pdb
+E:\Dropbox\SoftUni\Exam 2014.11.08\Exam 2014.11.08\5.BitBuilder\obj\Debug\5.BitBuilder.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\Exam 2014.11.08\Exam 2014.11.08\5.BitBuilder\obj\Debug\5.BitBuilder.exe
+E:\Dropbox\SoftUni\Exam 2014.11.08\Exam 2014.11.08\5.BitBuilder\obj\Debug\5.BitBuilder.pdb

@@ -1,0 +1,6 @@
+E:\Dropbox\SoftUni\Exam 2014.08.26\Exam 2014.08.26\3.Star\bin\Debug\3.Star.exe.config
+E:\Dropbox\SoftUni\Exam 2014.08.26\Exam 2014.08.26\3.Star\bin\Debug\3.Star.exe
+E:\Dropbox\SoftUni\Exam 2014.08.26\Exam 2014.08.26\3.Star\bin\Debug\3.Star.pdb
+E:\Dropbox\SoftUni\Exam 2014.08.26\Exam 2014.08.26\3.Star\obj\Debug\3.Star.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\Exam 2014.08.26\Exam 2014.08.26\3.Star\obj\Debug\3.Star.exe
+E:\Dropbox\SoftUni\Exam 2014.08.26\Exam 2014.08.26\3.Star\obj\Debug\3.Star.pdb

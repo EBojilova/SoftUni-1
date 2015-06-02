@@ -1,0 +1,9 @@
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Morning\Exam 2015.03.29\1.TorrentPirate\bin\Debug\1.TorrentPirate.exe.config
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Morning\Exam 2015.03.29\1.TorrentPirate\bin\Debug\1.TorrentPirate.exe
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Morning\Exam 2015.03.29\1.TorrentPirate\bin\Debug\1.TorrentPirate.pdb
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Morning\Exam 2015.03.29\1.TorrentPirate\obj\Debug\1.TorrentPirate.csprojResolveAssemblyReference.cache
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Morning\Exam 2015.03.29\1.TorrentPirate\obj\Debug\1.TorrentPirate.exe
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Morning\Exam 2015.03.29\1.TorrentPirate\obj\Debug\1.TorrentPirate.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Morning\Exam 2015.03.29\1.TorrentPirate\bin\Debug\1.TorrentPirate.exe.config
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Morning\Exam 2015.03.29\1.TorrentPirate\obj\Debug\1.TorrentPirate.exe
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Morning\Exam 2015.03.29\1.TorrentPirate\obj\Debug\1.TorrentPirate.pdb

@@ -1,0 +1,9 @@
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.07.25 Morning\Exam 2014.07.25 Morning\1.MelonsAndWatermelons\bin\Debug\1.MelonsAndWatermelons.exe.config
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.07.25 Morning\Exam 2014.07.25 Morning\1.MelonsAndWatermelons\bin\Debug\1.MelonsAndWatermelons.exe
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.07.25 Morning\Exam 2014.07.25 Morning\1.MelonsAndWatermelons\bin\Debug\1.MelonsAndWatermelons.pdb
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.07.25 Morning\Exam 2014.07.25 Morning\1.MelonsAndWatermelons\obj\Debug\1.MelonsAndWatermelons.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.07.25 Morning\Exam 2014.07.25 Morning\1.MelonsAndWatermelons\obj\Debug\1.MelonsAndWatermelons.exe
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.07.25 Morning\Exam 2014.07.25 Morning\1.MelonsAndWatermelons\obj\Debug\1.MelonsAndWatermelons.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.07.25 Morning\Exam 2014.07.25 Morning\1.MelonsAndWatermelons\bin\Debug\1.MelonsAndWatermelons.exe.config
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.07.25 Morning\Exam 2014.07.25 Morning\1.MelonsAndWatermelons\obj\Debug\1.MelonsAndWatermelons.exe
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.07.25 Morning\Exam 2014.07.25 Morning\1.MelonsAndWatermelons\obj\Debug\1.MelonsAndWatermelons.pdb

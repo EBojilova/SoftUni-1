@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Evening\Exam 2015.03.29 Evening\1.CurrencyCheck\bin\Debug\1.CurrencyCheck.exe.config
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Evening\Exam 2015.03.29 Evening\1.CurrencyCheck\bin\Debug\1.CurrencyCheck.exe
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Evening\Exam 2015.03.29 Evening\1.CurrencyCheck\bin\Debug\1.CurrencyCheck.pdb
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Evening\Exam 2015.03.29 Evening\1.CurrencyCheck\obj\Debug\1.CurrencyCheck.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Evening\Exam 2015.03.29 Evening\1.CurrencyCheck\obj\Debug\1.CurrencyCheck.exe
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Evening\Exam 2015.03.29 Evening\1.CurrencyCheck\obj\Debug\1.CurrencyCheck.pdb

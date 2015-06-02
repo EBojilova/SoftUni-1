@@ -1,0 +1,7 @@
+E:\Dropbox\SoftUni\Exam 2014.08.22\Exam 2014.08.22\4.ChessQueens\bin\Debug\4.ChessQueens.exe.config
+C:\Users\tahchiis\Dropbox\SoftUni\Exam 2014.08.22\Exam 2014.08.22\4.ChessQueens\bin\Debug\4.ChessQueens.exe.config
+C:\Users\tahchiis\Dropbox\SoftUni\Exam 2014.08.22\Exam 2014.08.22\4.ChessQueens\bin\Debug\4.ChessQueens.exe
+C:\Users\tahchiis\Dropbox\SoftUni\Exam 2014.08.22\Exam 2014.08.22\4.ChessQueens\bin\Debug\4.ChessQueens.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\Exam 2014.08.22\Exam 2014.08.22\4.ChessQueens\obj\Debug\4.ChessQueens.csprojResolveAssemblyReference.cache
+C:\Users\tahchiis\Dropbox\SoftUni\Exam 2014.08.22\Exam 2014.08.22\4.ChessQueens\obj\Debug\4.ChessQueens.exe
+C:\Users\tahchiis\Dropbox\SoftUni\Exam 2014.08.22\Exam 2014.08.22\4.ChessQueens\obj\Debug\4.ChessQueens.pdb

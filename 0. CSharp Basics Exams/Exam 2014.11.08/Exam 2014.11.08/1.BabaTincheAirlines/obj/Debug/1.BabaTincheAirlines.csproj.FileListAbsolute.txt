@@ -1,0 +1,6 @@
+E:\Dropbox\SoftUni\Exam 2014.11.08\Exam 2014.11.08\1.BabaTincheAirlines\bin\Debug\1.BabaTincheAirlines.exe.config
+E:\Dropbox\SoftUni\Exam 2014.11.08\Exam 2014.11.08\1.BabaTincheAirlines\bin\Debug\1.BabaTincheAirlines.exe
+E:\Dropbox\SoftUni\Exam 2014.11.08\Exam 2014.11.08\1.BabaTincheAirlines\bin\Debug\1.BabaTincheAirlines.pdb
+E:\Dropbox\SoftUni\Exam 2014.11.08\Exam 2014.11.08\1.BabaTincheAirlines\obj\Debug\1.BabaTincheAirlines.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\Exam 2014.11.08\Exam 2014.11.08\1.BabaTincheAirlines\obj\Debug\1.BabaTincheAirlines.exe
+E:\Dropbox\SoftUni\Exam 2014.11.08\Exam 2014.11.08\1.BabaTincheAirlines\obj\Debug\1.BabaTincheAirlines.pdb

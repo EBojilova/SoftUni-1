@@ -1,0 +1,7 @@
+E:\Dropbox\SoftUni\Exam 2014.12.19\Exam 2014.12.20\4.TextBombardment\bin\Debug\4.TextBombardment.exe
+E:\Dropbox\SoftUni\Exam 2014.12.19\Exam 2014.12.20\4.TextBombardment\bin\Debug\4.TextBombardment.pdb
+E:\Dropbox\SoftUni\Exam 2014.12.19\Exam 2014.12.20\4.TextBombardment\obj\Debug\4.TextBombardment.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\Exam 2014.12.19\Exam 2014.12.20\4.TextBombardment\obj\Debug\4.TextBombardment.exe
+E:\Dropbox\SoftUni\Exam 2014.12.19\Exam 2014.12.20\4.TextBombardment\obj\Debug\4.TextBombardment.pdb
+E:\Dropbox\SoftUni\Exam 2014.12.20\4.TextBombardment\obj\Debug\4.TextBombardment.exe
+E:\Dropbox\SoftUni\Exam 2014.12.20\4.TextBombardment\obj\Debug\4.TextBombardment.pdb

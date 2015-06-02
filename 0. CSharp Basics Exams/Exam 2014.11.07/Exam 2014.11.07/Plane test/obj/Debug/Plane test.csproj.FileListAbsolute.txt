@@ -1,0 +1,9 @@
+C:\Users\gad\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\Plane test\bin\Debug\Plane test.exe.config
+C:\Users\gad\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\Plane test\bin\Debug\Plane test.exe
+C:\Users\gad\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\Plane test\bin\Debug\Plane test.pdb
+C:\Users\gad\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\Plane test\obj\Debug\Plane test.csprojResolveAssemblyReference.cache
+C:\Users\gad\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\Plane test\obj\Debug\Plane test.exe
+C:\Users\gad\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\Plane test\obj\Debug\Plane test.pdb
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.11.07\Exam 2014.11.07\Plane test\bin\Debug\Plane test.exe.config
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.11.07\Exam 2014.11.07\Plane test\obj\Debug\Plane test.exe
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.11.07\Exam 2014.11.07\Plane test\obj\Debug\Plane test.pdb

@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Evening\Exam 2015.03.29 Evening\5.KnightPath\bin\Debug\5.KnightPath.exe.config
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Evening\Exam 2015.03.29 Evening\5.KnightPath\bin\Debug\5.KnightPath.exe
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Evening\Exam 2015.03.29 Evening\5.KnightPath\bin\Debug\5.KnightPath.pdb
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Evening\Exam 2015.03.29 Evening\5.KnightPath\obj\Debug\5.KnightPath.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Evening\Exam 2015.03.29 Evening\5.KnightPath\obj\Debug\5.KnightPath.exe
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Evening\Exam 2015.03.29 Evening\5.KnightPath\obj\Debug\5.KnightPath.pdb

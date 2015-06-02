@@ -1,0 +1,5 @@
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.11 Evening\Exam 2014.04.11 Evening\2.Illuminati\bin\Debug\2.Illuminati.exe.config
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.11 Evening\Exam 2014.04.11 Evening\2.Illuminati\bin\Debug\2.Illuminati.exe
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.11 Evening\Exam 2014.04.11 Evening\2.Illuminati\bin\Debug\2.Illuminati.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.11 Evening\Exam 2014.04.11 Evening\2.Illuminati\obj\Debug\2.Illuminati.exe
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.11 Evening\Exam 2014.04.11 Evening\2.Illuminati\obj\Debug\2.Illuminati.pdb

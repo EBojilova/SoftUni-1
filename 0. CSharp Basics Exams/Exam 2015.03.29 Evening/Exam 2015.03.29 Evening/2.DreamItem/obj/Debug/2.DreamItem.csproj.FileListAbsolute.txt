@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Evening\Exam 2015.03.29 Evening\2.DreamItem\bin\Debug\2.DreamItem.exe.config
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Evening\Exam 2015.03.29 Evening\2.DreamItem\bin\Debug\2.DreamItem.exe
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Evening\Exam 2015.03.29 Evening\2.DreamItem\bin\Debug\2.DreamItem.pdb
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Evening\Exam 2015.03.29 Evening\2.DreamItem\obj\Debug\2.DreamItem.exe
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Evening\Exam 2015.03.29 Evening\2.DreamItem\obj\Debug\2.DreamItem.pdb

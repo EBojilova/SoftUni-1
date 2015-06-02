@@ -1,0 +1,5 @@
+E:\Dropbox\SoftUni\Exam 2014.07.25 Evening\Exam 2014.07.25 Evening\3.HouseWithAWindow\bin\Debug\3.HouseWithAWindow.exe.config
+E:\Dropbox\SoftUni\Exam 2014.07.25 Evening\Exam 2014.07.25 Evening\3.HouseWithAWindow\bin\Debug\3.HouseWithAWindow.exe
+E:\Dropbox\SoftUni\Exam 2014.07.25 Evening\Exam 2014.07.25 Evening\3.HouseWithAWindow\bin\Debug\3.HouseWithAWindow.pdb
+E:\Dropbox\SoftUni\Exam 2014.07.25 Evening\Exam 2014.07.25 Evening\3.HouseWithAWindow\obj\Debug\3.HouseWithAWindow.exe
+E:\Dropbox\SoftUni\Exam 2014.07.25 Evening\Exam 2014.07.25 Evening\3.HouseWithAWindow\obj\Debug\3.HouseWithAWindow.pdb

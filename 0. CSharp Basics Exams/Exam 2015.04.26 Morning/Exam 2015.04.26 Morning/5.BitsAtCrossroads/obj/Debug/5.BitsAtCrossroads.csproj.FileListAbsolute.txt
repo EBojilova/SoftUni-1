@@ -1,0 +1,12 @@
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.04.26 Morning\Exam 2015.04.26 Morning\5.BitsAtCrossroads\bin\Debug\5.BitsAtCrossroads.exe.config
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.04.26 Morning\Exam 2015.04.26 Morning\5.BitsAtCrossroads\bin\Debug\5.BitsAtCrossroads.exe
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.04.26 Morning\Exam 2015.04.26 Morning\5.BitsAtCrossroads\bin\Debug\5.BitsAtCrossroads.pdb
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.04.26 Morning\Exam 2015.04.26 Morning\5.BitsAtCrossroads\obj\Debug\5.BitsAtCrossroads.csprojResolveAssemblyReference.cache
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.04.26 Morning\Exam 2015.04.26 Morning\5.BitsAtCrossroads\obj\Debug\5.BitsAtCrossroads.exe
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.04.26 Morning\Exam 2015.04.26 Morning\5.BitsAtCrossroads\obj\Debug\5.BitsAtCrossroads.pdb
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.04.26 Morning\Exam 2015.04.26 Morning\5.BitsAtCrossroads\bin\Debug\5.BitsAtCrossroads.exe.config
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.04.26 Morning\Exam 2015.04.26 Morning\5.BitsAtCrossroads\obj\Debug\5.BitsAtCrossroads.exe
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.04.26 Morning\Exam 2015.04.26 Morning\5.BitsAtCrossroads\obj\Debug\5.BitsAtCrossroads.pdb
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.04.26 Morning\Exam 2015.04.26 Morning\5.BitsAtCrossroads\bin\Debug\5.BitsAtCrossroads.exe
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.04.26 Morning\Exam 2015.04.26 Morning\5.BitsAtCrossroads\bin\Debug\5.BitsAtCrossroads.pdb
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.04.26 Morning\Exam 2015.04.26 Morning\5.BitsAtCrossroads\obj\Debug\5.BitsAtCrossroads.csprojResolveAssemblyReference.cache

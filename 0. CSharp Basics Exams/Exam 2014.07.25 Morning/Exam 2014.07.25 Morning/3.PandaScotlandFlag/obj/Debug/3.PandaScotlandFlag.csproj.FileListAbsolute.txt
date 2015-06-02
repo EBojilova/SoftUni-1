@@ -1,0 +1,5 @@
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.07.25 Morning\Exam 2014.07.25 Morning\3.PandaScotlandFlag\bin\Debug\3.PandaScotlandFlag.exe.config
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.07.25 Morning\Exam 2014.07.25 Morning\3.PandaScotlandFlag\bin\Debug\3.PandaScotlandFlag.exe
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.07.25 Morning\Exam 2014.07.25 Morning\3.PandaScotlandFlag\bin\Debug\3.PandaScotlandFlag.pdb
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.07.25 Morning\Exam 2014.07.25 Morning\3.PandaScotlandFlag\obj\Debug\3.PandaScotlandFlag.exe
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.07.25 Morning\Exam 2014.07.25 Morning\3.PandaScotlandFlag\obj\Debug\3.PandaScotlandFlag.pdb

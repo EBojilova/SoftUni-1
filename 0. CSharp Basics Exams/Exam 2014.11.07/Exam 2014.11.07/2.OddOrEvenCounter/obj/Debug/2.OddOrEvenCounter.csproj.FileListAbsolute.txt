@@ -1,0 +1,5 @@
+E:\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\2.OddOrEvenCounter\bin\Debug\2.OddOrEvenCounter.exe
+E:\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\2.OddOrEvenCounter\bin\Debug\2.OddOrEvenCounter.pdb
+E:\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\2.OddOrEvenCounter\obj\Debug\2.OddOrEvenCounter.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\2.OddOrEvenCounter\obj\Debug\2.OddOrEvenCounter.exe
+E:\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\2.OddOrEvenCounter\obj\Debug\2.OddOrEvenCounter.pdb

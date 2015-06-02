@@ -1,0 +1,9 @@
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.28\Exam 2014.04.28\3.Disk\bin\Debug\3.Disk.exe.config
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.28\Exam 2014.04.28\3.Disk\bin\Debug\3.Disk.exe
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.28\Exam 2014.04.28\3.Disk\bin\Debug\3.Disk.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.28\Exam 2014.04.28\3.Disk\obj\Debug\3.Disk.csprojResolveAssemblyReference.cache
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.28\Exam 2014.04.28\3.Disk\obj\Debug\3.Disk.exe
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.28\Exam 2014.04.28\3.Disk\obj\Debug\3.Disk.pdb
+D:\Dropbox\SoftUni\0. CSharp Basics Exams\Exam 2014.04.28\Exam 2014.04.28\3.Disk\bin\Debug\3.Disk.exe.config
+D:\Dropbox\SoftUni\0. CSharp Basics Exams\Exam 2014.04.28\Exam 2014.04.28\3.Disk\obj\Debug\3.Disk.exe
+D:\Dropbox\SoftUni\0. CSharp Basics Exams\Exam 2014.04.28\Exam 2014.04.28\3.Disk\obj\Debug\3.Disk.pdb

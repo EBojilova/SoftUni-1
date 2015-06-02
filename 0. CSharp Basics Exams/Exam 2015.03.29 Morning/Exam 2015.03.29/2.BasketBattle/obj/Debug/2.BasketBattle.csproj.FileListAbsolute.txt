@@ -1,0 +1,9 @@
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Morning\Exam 2015.03.29\2.BasketBattle\bin\Debug\2.BasketBattle.exe.config
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Morning\Exam 2015.03.29\2.BasketBattle\bin\Debug\2.BasketBattle.exe
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Morning\Exam 2015.03.29\2.BasketBattle\bin\Debug\2.BasketBattle.pdb
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Morning\Exam 2015.03.29\2.BasketBattle\obj\Debug\2.BasketBattle.csprojResolveAssemblyReference.cache
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Morning\Exam 2015.03.29\2.BasketBattle\obj\Debug\2.BasketBattle.exe
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Morning\Exam 2015.03.29\2.BasketBattle\obj\Debug\2.BasketBattle.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Morning\Exam 2015.03.29\2.BasketBattle\bin\Debug\2.BasketBattle.exe.config
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Morning\Exam 2015.03.29\2.BasketBattle\obj\Debug\2.BasketBattle.exe
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Morning\Exam 2015.03.29\2.BasketBattle\obj\Debug\2.BasketBattle.pdb

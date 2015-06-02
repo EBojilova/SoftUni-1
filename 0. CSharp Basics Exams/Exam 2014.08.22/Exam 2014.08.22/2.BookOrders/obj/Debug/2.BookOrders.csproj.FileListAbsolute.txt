@@ -1,0 +1,6 @@
+E:\Dropbox\SoftUni\Exam 2014.08.22\Exam 2014.08.22\2.BookOrders\bin\Debug\2.BookOrders.exe.config
+E:\Dropbox\SoftUni\Exam 2014.08.22\Exam 2014.08.22\2.BookOrders\bin\Debug\2.BookOrders.exe
+E:\Dropbox\SoftUni\Exam 2014.08.22\Exam 2014.08.22\2.BookOrders\bin\Debug\2.BookOrders.pdb
+E:\Dropbox\SoftUni\Exam 2014.08.22\Exam 2014.08.22\2.BookOrders\obj\Debug\2.BookOrders.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\Exam 2014.08.22\Exam 2014.08.22\2.BookOrders\obj\Debug\2.BookOrders.exe
+E:\Dropbox\SoftUni\Exam 2014.08.22\Exam 2014.08.22\2.BookOrders\obj\Debug\2.BookOrders.pdb

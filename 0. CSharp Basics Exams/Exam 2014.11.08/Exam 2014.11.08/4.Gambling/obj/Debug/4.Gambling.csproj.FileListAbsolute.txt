@@ -1,0 +1,5 @@
+E:\Dropbox\SoftUni\Exam 2014.11.08\Exam 2014.11.08\4.Gambling\bin\Debug\4.Gambling.exe
+E:\Dropbox\SoftUni\Exam 2014.11.08\Exam 2014.11.08\4.Gambling\bin\Debug\4.Gambling.pdb
+E:\Dropbox\SoftUni\Exam 2014.11.08\Exam 2014.11.08\4.Gambling\obj\Debug\4.Gambling.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\Exam 2014.11.08\Exam 2014.11.08\4.Gambling\obj\Debug\4.Gambling.exe
+E:\Dropbox\SoftUni\Exam 2014.11.08\Exam 2014.11.08\4.Gambling\obj\Debug\4.Gambling.pdb

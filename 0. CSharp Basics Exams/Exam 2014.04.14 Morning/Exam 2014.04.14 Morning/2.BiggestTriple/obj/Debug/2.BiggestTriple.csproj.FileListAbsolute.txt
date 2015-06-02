@@ -1,0 +1,12 @@
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.14 Morning\Exam 2014.04.14 Morning\2.BiggestTriple\bin\Debug\2.BiggestTriple.exe.config
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.14 Morning\Exam 2014.04.14 Morning\2.BiggestTriple\bin\Debug\2.BiggestTriple.exe
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.14 Morning\Exam 2014.04.14 Morning\2.BiggestTriple\bin\Debug\2.BiggestTriple.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.14 Morning\Exam 2014.04.14 Morning\2.BiggestTriple\obj\Debug\2.BiggestTriple.csprojResolveAssemblyReference.cache
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.14 Morning\Exam 2014.04.14 Morning\2.BiggestTriple\obj\Debug\2.BiggestTriple.exe
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.14 Morning\Exam 2014.04.14 Morning\2.BiggestTriple\obj\Debug\2.BiggestTriple.pdb
+F:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.14 Morning\Exam 2014.04.14 Morning\2.BiggestTriple\bin\Debug\2.BiggestTriple.exe.config
+F:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.14 Morning\Exam 2014.04.14 Morning\2.BiggestTriple\obj\Debug\2.BiggestTriple.exe
+F:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.14 Morning\Exam 2014.04.14 Morning\2.BiggestTriple\obj\Debug\2.BiggestTriple.pdb
+F:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.14 Morning\Exam 2014.04.14 Morning\2.BiggestTriple\bin\Debug\2.BiggestTriple.exe
+F:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.14 Morning\Exam 2014.04.14 Morning\2.BiggestTriple\bin\Debug\2.BiggestTriple.pdb
+F:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.14 Morning\Exam 2014.04.14 Morning\2.BiggestTriple\obj\Debug\2.BiggestTriple.csprojResolveAssemblyReference.cache

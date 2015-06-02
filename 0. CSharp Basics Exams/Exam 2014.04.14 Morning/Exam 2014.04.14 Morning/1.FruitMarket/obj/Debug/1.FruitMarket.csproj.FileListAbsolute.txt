@@ -1,0 +1,6 @@
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.14 Morning\Exam 2014.04.14 Morning\1.FruitMarket\bin\Debug\1.FruitMarket.exe.config
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.14 Morning\Exam 2014.04.14 Morning\1.FruitMarket\bin\Debug\1.FruitMarket.exe
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.14 Morning\Exam 2014.04.14 Morning\1.FruitMarket\bin\Debug\1.FruitMarket.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.14 Morning\Exam 2014.04.14 Morning\1.FruitMarket\obj\Debug\1.FruitMarket.csprojResolveAssemblyReference.cache
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.14 Morning\Exam 2014.04.14 Morning\1.FruitMarket\obj\Debug\1.FruitMarket.exe
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.14 Morning\Exam 2014.04.14 Morning\1.FruitMarket\obj\Debug\1.FruitMarket.pdb

@@ -1,0 +1,6 @@
+E:\Dropbox\SoftUni\Exam 2014.07.25 Evening\Exam 2014.07.25 Evening\5.ChangeEvenBits\bin\Debug\5.ChangeEvenBits.exe.config
+E:\Dropbox\SoftUni\Exam 2014.07.25 Evening\Exam 2014.07.25 Evening\5.ChangeEvenBits\bin\Debug\5.ChangeEvenBits.exe
+E:\Dropbox\SoftUni\Exam 2014.07.25 Evening\Exam 2014.07.25 Evening\5.ChangeEvenBits\bin\Debug\5.ChangeEvenBits.pdb
+E:\Dropbox\SoftUni\Exam 2014.07.25 Evening\Exam 2014.07.25 Evening\5.ChangeEvenBits\obj\Debug\5.ChangeEvenBits.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\Exam 2014.07.25 Evening\Exam 2014.07.25 Evening\5.ChangeEvenBits\obj\Debug\5.ChangeEvenBits.exe
+E:\Dropbox\SoftUni\Exam 2014.07.25 Evening\Exam 2014.07.25 Evening\5.ChangeEvenBits\obj\Debug\5.ChangeEvenBits.pdb

@@ -1,0 +1,6 @@
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.04.26 Morning\Exam 2015.04.26 Morning\4.DecryptTheMsg\bin\Debug\4.DecryptTheMsg.exe.config
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.04.26 Morning\Exam 2015.04.26 Morning\4.DecryptTheMsg\bin\Debug\4.DecryptTheMsg.exe
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.04.26 Morning\Exam 2015.04.26 Morning\4.DecryptTheMsg\bin\Debug\4.DecryptTheMsg.pdb
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.04.26 Morning\Exam 2015.04.26 Morning\4.DecryptTheMsg\obj\Debug\4.DecryptTheMsg.csprojResolveAssemblyReference.cache
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.04.26 Morning\Exam 2015.04.26 Morning\4.DecryptTheMsg\obj\Debug\4.DecryptTheMsg.exe
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.04.26 Morning\Exam 2015.04.26 Morning\4.DecryptTheMsg\obj\Debug\4.DecryptTheMsg.pdb

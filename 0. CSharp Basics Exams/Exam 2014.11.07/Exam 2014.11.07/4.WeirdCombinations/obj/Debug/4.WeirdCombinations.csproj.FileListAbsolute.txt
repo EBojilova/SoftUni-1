@@ -1,0 +1,18 @@
+E:\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\4.WeirdCombinations\bin\Debug\4.WeirdCombinations.exe.config
+E:\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\4.WeirdCombinations\bin\Debug\4.WeirdCombinations.exe
+E:\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\4.WeirdCombinations\bin\Debug\4.WeirdCombinations.pdb
+E:\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\4.WeirdCombinations\obj\Debug\4.WeirdCombinations.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\4.WeirdCombinations\obj\Debug\4.WeirdCombinations.exe
+E:\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\4.WeirdCombinations\obj\Debug\4.WeirdCombinations.pdb
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.11.07\Exam 2014.11.07\4.WeirdCombinations\bin\Debug\4.WeirdCombinations.exe.config
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.11.07\Exam 2014.11.07\4.WeirdCombinations\obj\Debug\4.WeirdCombinations.exe
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.11.07\Exam 2014.11.07\4.WeirdCombinations\obj\Debug\4.WeirdCombinations.pdb
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.11.07\Exam 2014.11.07\4.WeirdCombinations\bin\Debug\4.WeirdCombinations.exe
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.11.07\Exam 2014.11.07\4.WeirdCombinations\bin\Debug\4.WeirdCombinations.pdb
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.11.07\Exam 2014.11.07\4.WeirdCombinations\obj\Debug\4.WeirdCombinations.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.11.07\Exam 2014.11.07\4.WeirdCombinations\bin\Debug\4.WeirdCombinations.exe.config
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.11.07\Exam 2014.11.07\4.WeirdCombinations\obj\Debug\4.WeirdCombinations.exe
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.11.07\Exam 2014.11.07\4.WeirdCombinations\obj\Debug\4.WeirdCombinations.pdb
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.11.07\Exam 2014.11.07\4.WeirdCombinations\bin\Debug\4.WeirdCombinations.exe
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.11.07\Exam 2014.11.07\4.WeirdCombinations\bin\Debug\4.WeirdCombinations.pdb
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.11.07\Exam 2014.11.07\4.WeirdCombinations\obj\Debug\4.WeirdCombinations.csprojResolveAssemblyReference.cache

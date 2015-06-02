@@ -1,0 +1,6 @@
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.28\Exam 2014.04.28\5.FriendBits\bin\Debug\5.FriendBits.exe.config
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.28\Exam 2014.04.28\5.FriendBits\bin\Debug\5.FriendBits.exe
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.28\Exam 2014.04.28\5.FriendBits\bin\Debug\5.FriendBits.pdb
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.28\Exam 2014.04.28\5.FriendBits\obj\Debug\5.FriendBits.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.28\Exam 2014.04.28\5.FriendBits\obj\Debug\5.FriendBits.exe
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.28\Exam 2014.04.28\5.FriendBits\obj\Debug\5.FriendBits.pdb

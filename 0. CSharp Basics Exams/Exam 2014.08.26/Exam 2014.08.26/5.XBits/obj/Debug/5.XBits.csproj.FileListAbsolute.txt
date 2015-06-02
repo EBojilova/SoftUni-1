@@ -1,0 +1,6 @@
+E:\Dropbox\SoftUni\Exam 2014.08.26\Exam 2014.08.26\5.XBits\bin\Debug\5.XBits.exe.config
+E:\Dropbox\SoftUni\Exam 2014.08.26\Exam 2014.08.26\5.XBits\bin\Debug\5.XBits.exe
+E:\Dropbox\SoftUni\Exam 2014.08.26\Exam 2014.08.26\5.XBits\bin\Debug\5.XBits.pdb
+E:\Dropbox\SoftUni\Exam 2014.08.26\Exam 2014.08.26\5.XBits\obj\Debug\5.XBits.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\Exam 2014.08.26\Exam 2014.08.26\5.XBits\obj\Debug\5.XBits.exe
+E:\Dropbox\SoftUni\Exam 2014.08.26\Exam 2014.08.26\5.XBits\obj\Debug\5.XBits.pdb

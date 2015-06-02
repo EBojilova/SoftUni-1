@@ -1,0 +1,6 @@
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.10 Evening\Exam 2014.04.10 Evening\3.Eclipse\bin\Debug\3.Eclipse.exe.config
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.10 Evening\Exam 2014.04.10 Evening\3.Eclipse\bin\Debug\3.Eclipse.exe
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.10 Evening\Exam 2014.04.10 Evening\3.Eclipse\bin\Debug\3.Eclipse.pdb
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.10 Evening\Exam 2014.04.10 Evening\3.Eclipse\obj\Debug\3.Eclipse.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.10 Evening\Exam 2014.04.10 Evening\3.Eclipse\obj\Debug\3.Eclipse.exe
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.10 Evening\Exam 2014.04.10 Evening\3.Eclipse\obj\Debug\3.Eclipse.pdb

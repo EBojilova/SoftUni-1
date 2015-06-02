@@ -1,0 +1,5 @@
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Evening\Exam 2015.03.29 Evening\4.ArrayMatcher\bin\Debug\4.ArrayMatcher.exe.config
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Evening\Exam 2015.03.29 Evening\4.ArrayMatcher\bin\Debug\4.ArrayMatcher.exe
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Evening\Exam 2015.03.29 Evening\4.ArrayMatcher\bin\Debug\4.ArrayMatcher.pdb
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Evening\Exam 2015.03.29 Evening\4.ArrayMatcher\obj\Debug\4.ArrayMatcher.exe
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Evening\Exam 2015.03.29 Evening\4.ArrayMatcher\obj\Debug\4.ArrayMatcher.pdb

@@ -1,0 +1,10 @@
+E:\Dropbox\SoftUni\Exam 2014.12.19\Exam20141219\3.Headphones\bin\Debug\3.Headphones.exe
+E:\Dropbox\SoftUni\Exam 2014.12.19\Exam20141219\3.Headphones\bin\Debug\3.Headphones.pdb
+E:\Dropbox\SoftUni\Exam 2014.12.19\Exam20141219\3.Headphones\obj\Debug\3.Headphones.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\Exam 2014.12.19\Exam20141219\3.Headphones\obj\Debug\3.Headphones.exe
+E:\Dropbox\SoftUni\Exam 2014.12.19\Exam20141219\3.Headphones\obj\Debug\3.Headphones.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\Exam 2014.12.19\Exam20141219\3.Headphones\obj\Debug\3.Headphones.exe
+C:\Users\tahchiis\Dropbox\SoftUni\Exam 2014.12.19\Exam20141219\3.Headphones\obj\Debug\3.Headphones.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\Exam 2014.12.19\Exam20141219\3.Headphones\bin\Debug\3.Headphones.exe
+C:\Users\tahchiis\Dropbox\SoftUni\Exam 2014.12.19\Exam20141219\3.Headphones\bin\Debug\3.Headphones.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\Exam 2014.12.19\Exam20141219\3.Headphones\obj\Debug\3.Headphones.csprojResolveAssemblyReference.cache

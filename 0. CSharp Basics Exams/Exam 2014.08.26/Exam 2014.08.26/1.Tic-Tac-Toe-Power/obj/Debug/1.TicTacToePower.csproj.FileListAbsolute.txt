@@ -1,0 +1,6 @@
+E:\Dropbox\SoftUni\Exam 2014.08.26\Exam 2014.08.26\1.Tic-Tac-Toe-Power\bin\Debug\1.Tic-Tac-Toe-Power.exe.config
+E:\Dropbox\SoftUni\Exam 2014.08.26\Exam 2014.08.26\1.Tic-Tac-Toe-Power\bin\Debug\1.Tic-Tac-Toe-Power.exe
+E:\Dropbox\SoftUni\Exam 2014.08.26\Exam 2014.08.26\1.Tic-Tac-Toe-Power\bin\Debug\1.Tic-Tac-Toe-Power.pdb
+E:\Dropbox\SoftUni\Exam 2014.08.26\Exam 2014.08.26\1.Tic-Tac-Toe-Power\obj\Debug\1.TicTacToePower.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\Exam 2014.08.26\Exam 2014.08.26\1.Tic-Tac-Toe-Power\obj\Debug\1.Tic-Tac-Toe-Power.exe
+E:\Dropbox\SoftUni\Exam 2014.08.26\Exam 2014.08.26\1.Tic-Tac-Toe-Power\obj\Debug\1.Tic-Tac-Toe-Power.pdb

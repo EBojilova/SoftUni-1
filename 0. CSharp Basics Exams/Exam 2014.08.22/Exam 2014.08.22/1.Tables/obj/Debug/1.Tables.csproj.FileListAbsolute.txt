@@ -1,0 +1,6 @@
+E:\Dropbox\SoftUni\Exam 2014.08.22\Exam 2014.08.22\1.Tables\bin\Debug\1.Tables.exe.config
+E:\Dropbox\SoftUni\Exam 2014.08.22\Exam 2014.08.22\1.Tables\bin\Debug\1.Tables.exe
+E:\Dropbox\SoftUni\Exam 2014.08.22\Exam 2014.08.22\1.Tables\bin\Debug\1.Tables.pdb
+E:\Dropbox\SoftUni\Exam 2014.08.22\Exam 2014.08.22\1.Tables\obj\Debug\1.Tables.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\Exam 2014.08.22\Exam 2014.08.22\1.Tables\obj\Debug\1.Tables.exe
+E:\Dropbox\SoftUni\Exam 2014.08.22\Exam 2014.08.22\1.Tables\obj\Debug\1.Tables.pdb

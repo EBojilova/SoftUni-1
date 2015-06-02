@@ -1,0 +1,6 @@
+E:\Dropbox\SoftUni\Exam 2014.07.25 Evening\Exam 2014.07.25 Evening\4.NakovsMatching\bin\Debug\4.NakovsMatching.exe.config
+E:\Dropbox\SoftUni\Exam 2014.07.25 Evening\Exam 2014.07.25 Evening\4.NakovsMatching\bin\Debug\4.NakovsMatching.exe
+E:\Dropbox\SoftUni\Exam 2014.07.25 Evening\Exam 2014.07.25 Evening\4.NakovsMatching\bin\Debug\4.NakovsMatching.pdb
+E:\Dropbox\SoftUni\Exam 2014.07.25 Evening\Exam 2014.07.25 Evening\4.NakovsMatching\obj\Debug\4.NakovsMatching.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\Exam 2014.07.25 Evening\Exam 2014.07.25 Evening\4.NakovsMatching\obj\Debug\4.NakovsMatching.exe
+E:\Dropbox\SoftUni\Exam 2014.07.25 Evening\Exam 2014.07.25 Evening\4.NakovsMatching\obj\Debug\4.NakovsMatching.pdb

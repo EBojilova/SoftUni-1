@@ -1,0 +1,7 @@
+E:\Dropbox\SoftUni\Exam 2014.12.19\Exam 2014.12.20\1.PiggyBank\bin\Debug\1.PiggyBank.exe
+E:\Dropbox\SoftUni\Exam 2014.12.19\Exam 2014.12.20\1.PiggyBank\bin\Debug\1.PiggyBank.pdb
+E:\Dropbox\SoftUni\Exam 2014.12.19\Exam 2014.12.20\1.PiggyBank\obj\Debug\1.PiggyBank.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\Exam 2014.12.19\Exam 2014.12.20\1.PiggyBank\obj\Debug\1.PiggyBank.exe
+E:\Dropbox\SoftUni\Exam 2014.12.19\Exam 2014.12.20\1.PiggyBank\obj\Debug\1.PiggyBank.pdb
+E:\Dropbox\SoftUni\Exam 2014.12.20\1.PiggyBank\obj\Debug\1.PiggyBank.exe
+E:\Dropbox\SoftUni\Exam 2014.12.20\1.PiggyBank\obj\Debug\1.PiggyBank.pdb

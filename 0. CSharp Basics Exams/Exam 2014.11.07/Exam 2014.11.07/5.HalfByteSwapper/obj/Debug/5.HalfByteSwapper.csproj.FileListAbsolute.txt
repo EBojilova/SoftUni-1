@@ -1,0 +1,9 @@
+E:\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\5.HalfByteSwapper\bin\Debug\5.HalfByteSwapper.exe.config
+E:\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\5.HalfByteSwapper\bin\Debug\5.HalfByteSwapper.exe
+E:\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\5.HalfByteSwapper\bin\Debug\5.HalfByteSwapper.pdb
+E:\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\5.HalfByteSwapper\obj\Debug\5.HalfByteSwapper.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\5.HalfByteSwapper\obj\Debug\5.HalfByteSwapper.exe
+E:\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\5.HalfByteSwapper\obj\Debug\5.HalfByteSwapper.pdb
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.11.07\Exam 2014.11.07\5.HalfByteSwapper\bin\Debug\5.HalfByteSwapper.exe.config
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.11.07\Exam 2014.11.07\5.HalfByteSwapper\obj\Debug\5.HalfByteSwapper.exe
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.11.07\Exam 2014.11.07\5.HalfByteSwapper\obj\Debug\5.HalfByteSwapper.pdb

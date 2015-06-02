@@ -1,0 +1,9 @@
+E:\Dropbox\SoftUni\Exam 2014.12.19\Exam20141219\4.SpiralMatrix\bin\Debug\4.SpiralMatrix.exe.config
+E:\Dropbox\SoftUni\Exam 2014.12.19\Exam20141219\4.SpiralMatrix\bin\Debug\4.SpiralMatrix.exe
+E:\Dropbox\SoftUni\Exam 2014.12.19\Exam20141219\4.SpiralMatrix\bin\Debug\4.SpiralMatrix.pdb
+E:\Dropbox\SoftUni\Exam 2014.12.19\Exam20141219\4.SpiralMatrix\obj\Debug\4.SpiralMatrix.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\Exam 2014.12.19\Exam20141219\4.SpiralMatrix\obj\Debug\4.SpiralMatrix.exe
+E:\Dropbox\SoftUni\Exam 2014.12.19\Exam20141219\4.SpiralMatrix\obj\Debug\4.SpiralMatrix.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\Exam 2014.12.19\Exam20141219\4.SpiralMatrix\bin\Debug\4.SpiralMatrix.exe.config
+C:\Users\tahchiis\Dropbox\SoftUni\Exam 2014.12.19\Exam20141219\4.SpiralMatrix\obj\Debug\4.SpiralMatrix.exe
+C:\Users\tahchiis\Dropbox\SoftUni\Exam 2014.12.19\Exam20141219\4.SpiralMatrix\obj\Debug\4.SpiralMatrix.pdb

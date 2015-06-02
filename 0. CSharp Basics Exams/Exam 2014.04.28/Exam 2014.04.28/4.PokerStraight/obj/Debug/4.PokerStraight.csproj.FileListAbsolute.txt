@@ -1,0 +1,7 @@
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.28\Exam 2014.04.28\4.PokerStraight\bin\Debug\4.PokerStraight.exe.config
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.28\Exam 2014.04.28\4.PokerStraight\bin\Debug\4.PokerStraight.exe.config
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.28\Exam 2014.04.28\4.PokerStraight\bin\Debug\4.PokerStraight.exe
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.28\Exam 2014.04.28\4.PokerStraight\bin\Debug\4.PokerStraight.pdb
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.28\Exam 2014.04.28\4.PokerStraight\obj\Debug\4.PokerStraight.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.28\Exam 2014.04.28\4.PokerStraight\obj\Debug\4.PokerStraight.exe
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.28\Exam 2014.04.28\4.PokerStraight\obj\Debug\4.PokerStraight.pdb

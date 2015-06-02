@@ -1,0 +1,9 @@
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.04.26 Morning\Exam 2015.04.26 Morning\1.BookProblem\bin\Debug\1.BookProblem.exe.config
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.04.26 Morning\Exam 2015.04.26 Morning\1.BookProblem\bin\Debug\1.BookProblem.exe
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.04.26 Morning\Exam 2015.04.26 Morning\1.BookProblem\bin\Debug\1.BookProblem.pdb
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.04.26 Morning\Exam 2015.04.26 Morning\1.BookProblem\obj\Debug\1.BookProblem.csprojResolveAssemblyReference.cache
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.04.26 Morning\Exam 2015.04.26 Morning\1.BookProblem\obj\Debug\1.BookProblem.exe
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.04.26 Morning\Exam 2015.04.26 Morning\1.BookProblem\obj\Debug\1.BookProblem.pdb
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.04.26 Morning\Exam 2015.04.26 Morning\1.BookProblem\bin\Debug\1.BookProblem.exe.config
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.04.26 Morning\Exam 2015.04.26 Morning\1.BookProblem\obj\Debug\1.BookProblem.exe
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.04.26 Morning\Exam 2015.04.26 Morning\1.BookProblem\obj\Debug\1.BookProblem.pdb

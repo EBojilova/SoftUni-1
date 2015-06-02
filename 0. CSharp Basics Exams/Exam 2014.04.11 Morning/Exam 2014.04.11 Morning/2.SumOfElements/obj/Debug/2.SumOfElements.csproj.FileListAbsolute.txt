@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.11 Morning\Exam 2014.04.11 Morning\2.SumOfElements\bin\Debug\2.SumOfElements.exe.config
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.11 Morning\Exam 2014.04.11 Morning\2.SumOfElements\bin\Debug\2.SumOfElements.exe
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.11 Morning\Exam 2014.04.11 Morning\2.SumOfElements\bin\Debug\2.SumOfElements.pdb
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.11 Morning\Exam 2014.04.11 Morning\2.SumOfElements\obj\Debug\2.SumOfElements.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.11 Morning\Exam 2014.04.11 Morning\2.SumOfElements\obj\Debug\2.SumOfElements.exe
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.11 Morning\Exam 2014.04.11 Morning\2.SumOfElements\obj\Debug\2.SumOfElements.pdb

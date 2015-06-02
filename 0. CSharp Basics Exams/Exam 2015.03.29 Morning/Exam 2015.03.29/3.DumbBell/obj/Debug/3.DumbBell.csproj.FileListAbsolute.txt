@@ -1,0 +1,5 @@
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Morning\Exam 2015.03.29\3.DumbBell\bin\Debug\3.DumbBell.exe.config
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Morning\Exam 2015.03.29\3.DumbBell\bin\Debug\3.DumbBell.exe
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Morning\Exam 2015.03.29\3.DumbBell\bin\Debug\3.DumbBell.pdb
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Morning\Exam 2015.03.29\3.DumbBell\obj\Debug\3.DumbBell.exe
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Morning\Exam 2015.03.29\3.DumbBell\obj\Debug\3.DumbBell.pdb

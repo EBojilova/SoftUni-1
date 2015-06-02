@@ -1,0 +1,6 @@
+E:\Dropbox\SoftUni\Exam 2014.08.26\Exam 2014.08.26\4.WinningNumbers\bin\Debug\4.WinningNumbers.exe.config
+E:\Dropbox\SoftUni\Exam 2014.08.26\Exam 2014.08.26\4.WinningNumbers\bin\Debug\4.WinningNumbers.exe
+E:\Dropbox\SoftUni\Exam 2014.08.26\Exam 2014.08.26\4.WinningNumbers\bin\Debug\4.WinningNumbers.pdb
+E:\Dropbox\SoftUni\Exam 2014.08.26\Exam 2014.08.26\4.WinningNumbers\obj\Debug\4.WinningNumbers.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\Exam 2014.08.26\Exam 2014.08.26\4.WinningNumbers\obj\Debug\4.WinningNumbers.exe
+E:\Dropbox\SoftUni\Exam 2014.08.26\Exam 2014.08.26\4.WinningNumbers\obj\Debug\4.WinningNumbers.pdb

@@ -1,0 +1,12 @@
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.28\Exam 2014.04.28\2.SequenceOfKNumbers\bin\Debug\2.SequenceOfKNumbers.exe.config
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.28\Exam 2014.04.28\2.SequenceOfKNumbers\bin\Debug\2.SequenceOfKNumbers.exe
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.28\Exam 2014.04.28\2.SequenceOfKNumbers\bin\Debug\2.SequenceOfKNumbers.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.28\Exam 2014.04.28\2.SequenceOfKNumbers\obj\Debug\2.SequenceOfKNumbers.csprojResolveAssemblyReference.cache
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.28\Exam 2014.04.28\2.SequenceOfKNumbers\obj\Debug\2.SequenceOfKNumbers.exe
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.28\Exam 2014.04.28\2.SequenceOfKNumbers\obj\Debug\2.SequenceOfKNumbers.pdb
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.28\Exam 2014.04.28\2.SequenceOfKNumbers\bin\Debug\2.SequenceOfKNumbers.exe.config
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.28\Exam 2014.04.28\2.SequenceOfKNumbers\obj\Debug\2.SequenceOfKNumbers.exe
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.28\Exam 2014.04.28\2.SequenceOfKNumbers\obj\Debug\2.SequenceOfKNumbers.pdb
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.28\Exam 2014.04.28\2.SequenceOfKNumbers\bin\Debug\2.SequenceOfKNumbers.exe
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.28\Exam 2014.04.28\2.SequenceOfKNumbers\bin\Debug\2.SequenceOfKNumbers.pdb
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.28\Exam 2014.04.28\2.SequenceOfKNumbers\obj\Debug\2.SequenceOfKNumbers.csprojResolveAssemblyReference.cache

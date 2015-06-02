@@ -1,0 +1,12 @@
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.11 Evening\Exam 2014.04.11 Evening\1.Cinema\bin\Debug\1.Cinema.exe.config
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.11 Evening\Exam 2014.04.11 Evening\1.Cinema\bin\Debug\1.Cinema.exe
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.11 Evening\Exam 2014.04.11 Evening\1.Cinema\bin\Debug\1.Cinema.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.11 Evening\Exam 2014.04.11 Evening\1.Cinema\obj\Debug\1.Cinema.csprojResolveAssemblyReference.cache
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.11 Evening\Exam 2014.04.11 Evening\1.Cinema\obj\Debug\1.Cinema.exe
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.11 Evening\Exam 2014.04.11 Evening\1.Cinema\obj\Debug\1.Cinema.pdb
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.11 Evening\Exam 2014.04.11 Evening\1.Cinema\bin\Debug\1.Cinema.exe.config
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.11 Evening\Exam 2014.04.11 Evening\1.Cinema\obj\Debug\1.Cinema.exe
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.11 Evening\Exam 2014.04.11 Evening\1.Cinema\obj\Debug\1.Cinema.pdb
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.11 Evening\Exam 2014.04.11 Evening\1.Cinema\bin\Debug\1.Cinema.exe.config
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.11 Evening\Exam 2014.04.11 Evening\1.Cinema\obj\Debug\1.Cinema.exe
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.11 Evening\Exam 2014.04.11 Evening\1.Cinema\obj\Debug\1.Cinema.pdb

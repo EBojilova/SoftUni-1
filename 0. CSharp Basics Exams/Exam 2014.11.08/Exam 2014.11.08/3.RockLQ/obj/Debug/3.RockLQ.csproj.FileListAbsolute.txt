@@ -1,0 +1,5 @@
+E:\Dropbox\SoftUni\Exam 2014.11.08\Exam 2014.11.08\3.RockLQ\bin\Debug\3.RockLQ.exe
+E:\Dropbox\SoftUni\Exam 2014.11.08\Exam 2014.11.08\3.RockLQ\bin\Debug\3.RockLQ.pdb
+E:\Dropbox\SoftUni\Exam 2014.11.08\Exam 2014.11.08\3.RockLQ\obj\Debug\3.RockLQ.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\Exam 2014.11.08\Exam 2014.11.08\3.RockLQ\obj\Debug\3.RockLQ.exe
+E:\Dropbox\SoftUni\Exam 2014.11.08\Exam 2014.11.08\3.RockLQ\obj\Debug\3.RockLQ.pdb

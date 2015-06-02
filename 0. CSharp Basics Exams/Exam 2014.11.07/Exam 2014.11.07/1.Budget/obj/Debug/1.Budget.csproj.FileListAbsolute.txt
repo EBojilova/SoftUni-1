@@ -1,0 +1,11 @@
+E:\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\1.Budget\bin\Debug\1.Budget.exe
+E:\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\1.Budget\bin\Debug\1.Budget.pdb
+E:\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\1.Budget\obj\Debug\1.Budget.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\1.Budget\obj\Debug\1.Budget.exe
+E:\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\1.Budget\obj\Debug\1.Budget.pdb
+C:\Users\gad\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\1.Budget\obj\Debug\1.Budget.exe
+C:\Users\gad\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\1.Budget\obj\Debug\1.Budget.pdb
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.11.07\Exam 2014.11.07\1.Budget\obj\Debug\1.Budget.exe
+C:\Users\gad\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.11.07\Exam 2014.11.07\1.Budget\obj\Debug\1.Budget.pdb
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.11.07\Exam 2014.11.07\1.Budget\obj\Debug\1.Budget.exe
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.11.07\Exam 2014.11.07\1.Budget\obj\Debug\1.Budget.pdb

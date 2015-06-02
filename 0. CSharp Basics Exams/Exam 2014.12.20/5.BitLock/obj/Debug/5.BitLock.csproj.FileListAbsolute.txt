@@ -1,0 +1,10 @@
+E:\Dropbox\SoftUni\Exam 2014.12.19\Exam 2014.12.20\5.BitLock\bin\Debug\5.BitLock.exe
+E:\Dropbox\SoftUni\Exam 2014.12.19\Exam 2014.12.20\5.BitLock\bin\Debug\5.BitLock.pdb
+E:\Dropbox\SoftUni\Exam 2014.12.19\Exam 2014.12.20\5.BitLock\obj\Debug\5.BitLock.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\Exam 2014.12.19\Exam 2014.12.20\5.BitLock\obj\Debug\5.BitLock.exe
+E:\Dropbox\SoftUni\Exam 2014.12.19\Exam 2014.12.20\5.BitLock\obj\Debug\5.BitLock.pdb
+E:\Dropbox\SoftUni\Exam 2014.12.20\5.BitLock\obj\Debug\5.BitLock.exe
+E:\Dropbox\SoftUni\Exam 2014.12.20\5.BitLock\obj\Debug\5.BitLock.pdb
+E:\Dropbox\SoftUni\Exam 2014.12.20\5.BitLock\bin\Debug\5.BitLock.exe
+E:\Dropbox\SoftUni\Exam 2014.12.20\5.BitLock\bin\Debug\5.BitLock.pdb
+E:\Dropbox\SoftUni\Exam 2014.12.20\5.BitLock\obj\Debug\5.BitLock.csprojResolveAssemblyReference.cache

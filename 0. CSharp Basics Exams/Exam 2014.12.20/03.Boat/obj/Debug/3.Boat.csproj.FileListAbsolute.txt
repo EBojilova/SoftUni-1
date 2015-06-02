@@ -1,0 +1,5 @@
+E:\Dropbox\SoftUni\Exam 2014.12.19\Exam 2014.12.20\03.Boat\bin\Debug\03.Boat.exe
+E:\Dropbox\SoftUni\Exam 2014.12.19\Exam 2014.12.20\03.Boat\bin\Debug\03.Boat.pdb
+E:\Dropbox\SoftUni\Exam 2014.12.19\Exam 2014.12.20\03.Boat\obj\Debug\3.Boat.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\Exam 2014.12.19\Exam 2014.12.20\03.Boat\obj\Debug\03.Boat.exe
+E:\Dropbox\SoftUni\Exam 2014.12.19\Exam 2014.12.20\03.Boat\obj\Debug\03.Boat.pdb

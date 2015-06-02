@@ -1,0 +1,6 @@
+F:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.14 Morning\Exam 2014.04.14 Morning\3.WineGlass\bin\Debug\3.WineGlass.exe.config
+F:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.14 Morning\Exam 2014.04.14 Morning\3.WineGlass\bin\Debug\3.WineGlass.exe
+F:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.14 Morning\Exam 2014.04.14 Morning\3.WineGlass\bin\Debug\3.WineGlass.pdb
+F:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.14 Morning\Exam 2014.04.14 Morning\3.WineGlass\obj\Debug\3.WineGlass.csprojResolveAssemblyReference.cache
+F:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.14 Morning\Exam 2014.04.14 Morning\3.WineGlass\obj\Debug\3.WineGlass.exe
+F:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.14 Morning\Exam 2014.04.14 Morning\3.WineGlass\obj\Debug\3.WineGlass.pdb

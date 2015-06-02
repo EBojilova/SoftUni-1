@@ -1,0 +1,5 @@
+E:\Dropbox\SoftUni\Exam 2014.11.08\Exam 2014.11.08\2.Numerology\bin\Debug\2.Numerology.exe
+E:\Dropbox\SoftUni\Exam 2014.11.08\Exam 2014.11.08\2.Numerology\bin\Debug\2.Numerology.pdb
+E:\Dropbox\SoftUni\Exam 2014.11.08\Exam 2014.11.08\2.Numerology\obj\Debug\2.Numerology.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\Exam 2014.11.08\Exam 2014.11.08\2.Numerology\obj\Debug\2.Numerology.exe
+E:\Dropbox\SoftUni\Exam 2014.11.08\Exam 2014.11.08\2.Numerology\obj\Debug\2.Numerology.pdb

@@ -1,0 +1,6 @@
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Evening\Exam 2015.03.29 Evening\3.MagicWand\bin\Debug\3.MagicWand.exe.config
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Evening\Exam 2015.03.29 Evening\3.MagicWand\bin\Debug\3.MagicWand.exe
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Evening\Exam 2015.03.29 Evening\3.MagicWand\bin\Debug\3.MagicWand.pdb
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Evening\Exam 2015.03.29 Evening\3.MagicWand\obj\Debug\3.MagicWand.csprojResolveAssemblyReference.cache
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Evening\Exam 2015.03.29 Evening\3.MagicWand\obj\Debug\3.MagicWand.exe
+D:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2015.03.29 Evening\Exam 2015.03.29 Evening\3.MagicWand\obj\Debug\3.MagicWand.pdb

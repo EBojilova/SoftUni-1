@@ -1,0 +1,6 @@
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.07.25 Morning\Exam 2014.07.25 Morning\2.LettersSymbolsNumbers\bin\Debug\2.LettersSymbolsNumbers.exe.config
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.07.25 Morning\Exam 2014.07.25 Morning\2.LettersSymbolsNumbers\bin\Debug\2.LettersSymbolsNumbers.exe
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.07.25 Morning\Exam 2014.07.25 Morning\2.LettersSymbolsNumbers\bin\Debug\2.LettersSymbolsNumbers.pdb
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.07.25 Morning\Exam 2014.07.25 Morning\2.LettersSymbolsNumbers\obj\Debug\2.LettersSymbolsNumbers.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.07.25 Morning\Exam 2014.07.25 Morning\2.LettersSymbolsNumbers\obj\Debug\2.LettersSymbolsNumbers.exe
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.07.25 Morning\Exam 2014.07.25 Morning\2.LettersSymbolsNumbers\obj\Debug\2.LettersSymbolsNumbers.pdb

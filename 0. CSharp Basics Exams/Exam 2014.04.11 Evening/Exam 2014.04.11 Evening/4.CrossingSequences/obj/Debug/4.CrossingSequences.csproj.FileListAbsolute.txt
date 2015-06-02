@@ -1,0 +1,6 @@
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.11 Evening\Exam 2014.04.11 Evening\4.CrossingSequences\bin\Debug\4.CrossingSequences.exe.config
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.11 Evening\Exam 2014.04.11 Evening\4.CrossingSequences\bin\Debug\4.CrossingSequences.exe
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.11 Evening\Exam 2014.04.11 Evening\4.CrossingSequences\bin\Debug\4.CrossingSequences.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.11 Evening\Exam 2014.04.11 Evening\4.CrossingSequences\obj\Debug\4.CrossingSequences.csprojResolveAssemblyReference.cache
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.11 Evening\Exam 2014.04.11 Evening\4.CrossingSequences\obj\Debug\4.CrossingSequences.exe
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.04.11 Evening\Exam 2014.04.11 Evening\4.CrossingSequences\obj\Debug\4.CrossingSequences.pdb

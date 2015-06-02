@@ -1,0 +1,7 @@
+E:\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\3.Plane\bin\Debug\3.Plane.exe
+E:\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\3.Plane\bin\Debug\3.Plane.pdb
+E:\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\3.Plane\obj\Debug\3.Plane.exe
+E:\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\3.Plane\obj\Debug\3.Plane.pdb
+E:\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\3.Plane\obj\Debug\3.Plane.csprojResolveAssemblyReference.cache
+C:\Users\gad\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\3.Plane\obj\Debug\3.Plane.exe
+C:\Users\gad\Dropbox\SoftUni\Exam 2014.11.07\Exam 2014.11.07\3.Plane\obj\Debug\3.Plane.pdb

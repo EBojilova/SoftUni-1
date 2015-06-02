@@ -1,0 +1,5 @@
+E:\Dropbox\SoftUni\Exam 2014.12.19\Exam 2014.12.20\2.CheatSheet\bin\Debug\2.CheatSheet.exe
+E:\Dropbox\SoftUni\Exam 2014.12.19\Exam 2014.12.20\2.CheatSheet\bin\Debug\2.CheatSheet.pdb
+E:\Dropbox\SoftUni\Exam 2014.12.19\Exam 2014.12.20\2.CheatSheet\obj\Debug\2.CheatSheet.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftUni\Exam 2014.12.19\Exam 2014.12.20\2.CheatSheet\obj\Debug\2.CheatSheet.exe
+E:\Dropbox\SoftUni\Exam 2014.12.19\Exam 2014.12.20\2.CheatSheet\obj\Debug\2.CheatSheet.pdb

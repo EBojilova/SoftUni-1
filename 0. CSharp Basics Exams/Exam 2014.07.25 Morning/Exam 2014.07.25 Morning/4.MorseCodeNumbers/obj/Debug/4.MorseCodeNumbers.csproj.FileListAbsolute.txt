@@ -1,0 +1,11 @@
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.07.25 Morning\Exam 2014.07.25 Morning\4.MorseCodeNumbers\bin\Debug\4.MorseCodeNumbers.exe.config
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.07.25 Morning\Exam 2014.07.25 Morning\4.MorseCodeNumbers\bin\Debug\4.MorseCodeNumbers.exe
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.07.25 Morning\Exam 2014.07.25 Morning\4.MorseCodeNumbers\bin\Debug\4.MorseCodeNumbers.pdb
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.07.25 Morning\Exam 2014.07.25 Morning\4.MorseCodeNumbers\obj\Debug\4.MorseCodeNumbers.exe
+E:\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.07.25 Morning\Exam 2014.07.25 Morning\4.MorseCodeNumbers\obj\Debug\4.MorseCodeNumbers.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.07.25 Morning\Exam 2014.07.25 Morning\4.MorseCodeNumbers\bin\Debug\4.MorseCodeNumbers.exe.config
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.07.25 Morning\Exam 2014.07.25 Morning\4.MorseCodeNumbers\obj\Debug\4.MorseCodeNumbers.exe
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.07.25 Morning\Exam 2014.07.25 Morning\4.MorseCodeNumbers\obj\Debug\4.MorseCodeNumbers.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.07.25 Morning\Exam 2014.07.25 Morning\4.MorseCodeNumbers\bin\Debug\4.MorseCodeNumbers.exe
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.07.25 Morning\Exam 2014.07.25 Morning\4.MorseCodeNumbers\bin\Debug\4.MorseCodeNumbers.pdb
+C:\Users\tahchiis\Dropbox\SoftUni\C Sharp Basics Exams\Exam 2014.07.25 Morning\Exam 2014.07.25 Morning\4.MorseCodeNumbers\obj\Debug\4.MorseCodeNumbers.csprojResolveAssemblyReference.cache
