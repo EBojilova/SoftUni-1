@@ -9,7 +9,7 @@ class OlympicsAreComing
     {
         Dictionary<string, Dictionary<string, int>> stats = new Dictionary<string, Dictionary<string, int>>();
         string input;
-        string pattern1 = @"^([A-Za-z]+\s*[A-Za-z]*)\s*\|\s*([A-Za-z]+[\s*-.]*[A-Za-z]*)";
+        string pattern1 = @"^([A-Za-z]+\s*[A-Za-z]*)\s*\|\s*([A-Za-z]+[\s.'A-Za-z0-9-]*)";
         while ((input = Console.ReadLine()) != "report")
         {
             Match playerData = Regex.Match(input, pattern1);
