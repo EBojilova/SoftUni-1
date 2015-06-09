@@ -19,7 +19,7 @@ namespace Point3D
 
         public override string ToString()
         {
-            return string.Format("X={0}; Y={1}; Z={2}", this.X, this.Y, this.Z);
+            return string.Format("X = {0}, Y = {1}, Z = {2}", this.X, this.Y, this.Z);
         }
 
         public static Point3D GetCoordinateCenter 
