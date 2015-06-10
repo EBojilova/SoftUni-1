@@ -5,7 +5,7 @@ using System.Text;
 
 namespace CompanyHierarchy
 {
-    class SalesEmployee : Employee
+    class SalesEmployee : Employee, ISalesEmployee
     {
         public List<Sale> Sales { get; set; }
 

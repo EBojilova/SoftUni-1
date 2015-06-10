@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CompanyHierarchy
 {
-    class Developer : Employee
+    class Developer : Employee, IDeveloper
     {
         public List<Project> Projects { get; set; }
 

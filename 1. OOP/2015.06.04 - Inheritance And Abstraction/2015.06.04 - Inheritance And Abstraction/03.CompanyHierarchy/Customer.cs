@@ -3,7 +3,7 @@ using System.Text;
 
 namespace CompanyHierarchy
 {
-    class Customer : Person
+    class Customer : Person, ICustomer
     {
         private decimal NetPurchases { get; set; }
 

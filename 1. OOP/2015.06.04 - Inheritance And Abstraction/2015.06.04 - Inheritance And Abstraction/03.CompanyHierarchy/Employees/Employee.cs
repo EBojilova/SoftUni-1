@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace CompanyHierarchy
 {
-    abstract class Employee : Person
+    abstract class Employee : Person, IEmployee
     {
         private string dept;
         private decimal salary;
