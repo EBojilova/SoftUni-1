@@ -1,7 +1,6 @@
 ﻿namespace GenericList
 {
     using System;
-
     class Program
     {
         static void Main()

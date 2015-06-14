@@ -2,10 +2,9 @@
 {
     using System;
     using System.Linq;
-    //using System.Reflection;
     using System.Collections.Generic;
 
-    [Version(0, 2)]
+    [VersionAttribute(0, 2)]
     public class GenericList<T> where T : IComparable
     {
         private T[] array;
@@ -151,9 +150,13 @@
         {
             Type type = typeof(GenericList<T>);
             object[] allAttributes = type.GetCustomAttributes(false);
-            foreach (Version ver in allAttributes)
+            foreach (var ver in allAttributes)
             {
-                Console.WriteLine(">>> GenericList v.{0}.{1} <<<\n", ver.Major, ver.Minor);
+                if (ver is VersionAttribute)
+                {
+                    VersionAttribute temp = ver as VersionAttribute;
+                    Console.WriteLine(">>> GenericList v.{0}.{1} <<<\n", temp.Major, temp.Minor);
+                }
             }
         }
     }
