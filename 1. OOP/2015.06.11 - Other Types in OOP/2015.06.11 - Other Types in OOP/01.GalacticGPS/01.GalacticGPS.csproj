@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0918CF9B-D36B-4E1F-AC39-1E4EC0FB817D}</ProjectGuid>
+    <ProjectGuid>{DA5CA8E6-FE78-4DB3-9EF7-C90BDD3107B5}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_02.BankOfKurtovoKonare</RootNamespace>
-    <AssemblyName>02.BankOfKurtovoKonare</AssemblyName>
+    <RootNamespace>_01.GalacticGPS</RootNamespace>
+    <AssemblyName>01.GalacticGPS</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,22 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Accounts\Accouns.cs" />
-    <Compile Include="Accounts\Account.cs" />
-    <Compile Include="Customers\Company.cs" />
-    <Compile Include="Accounts\Deposit.cs" />
-    <Compile Include="Accounts\Loan.cs" />
-    <Compile Include="Accounts\Mortgage.cs" />
-    <Compile Include="Customers\Customer.cs" />
-    <Compile Include="Customers\Customers.cs" />
-    <Compile Include="Customers\Person.cs" />
-    <Compile Include="Interfaces\IAccount.cs" />
-    <Compile Include="Interfaces\ICompany.cs" />
-    <Compile Include="Interfaces\ICustomer.cs" />
-    <Compile Include="Interfaces\IDeposit.cs" />
-    <Compile Include="Interfaces\ILoan.cs" />
-    <Compile Include="Interfaces\IMortgage.cs" />
-    <Compile Include="Interfaces\IPerson.cs" />
+    <Compile Include="Location.cs" />
+    <Compile Include="Planet.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
