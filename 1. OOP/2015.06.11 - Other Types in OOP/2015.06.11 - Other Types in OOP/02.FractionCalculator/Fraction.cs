@@ -1,35 +1,22 @@
 ﻿namespace FractionCalculator
 {
     using System;
+    using System.Numerics;
 
     struct Fraction
     {
-        private long numerator;
-        private long denominator;
+        private BigInteger denominator;
 
-        public Fraction(long a, long b) : this()
+        public Fraction(BigInteger a, BigInteger b)
+            : this()
         {
             this.Numerator = a;
             this.Denominator = b;
         }
 
-        public long Numerator 
-        {
-            get
-            {
-                return this.numerator;
-            }
-            set
-            {
-                if (value < long.MinValue || value > long.MaxValue)
-                {
-                    throw new ArgumentOutOfRangeException("Numerator is out of range [-9223372036854775808 … 9223372036854775807].");
-                }
-                this.numerator = value;
-            }
-        }
+        public BigInteger Numerator { get; set; }
 
-        public long Denominator
+        public BigInteger Denominator
         {
             get
             {
@@ -37,11 +24,7 @@
             }
             set
             {
-                if (value < long.MinValue || value > long.MaxValue)
-                {
-                    throw new ArgumentOutOfRangeException("Denominator is out of range [-9223372036854775808 … 9223372036854775807].");
-                }
-                else if (value == 0)
+                if (value == 0)
                 {
                     throw new InvalidOperationException("Denominator cannot be 0.");
                 }
@@ -61,7 +44,7 @@
 
         public override string ToString()
         {
-            return string.Format("{0}", (decimal)this.Numerator / this.Denominator);
+            return string.Format("{0}", this.Numerator / this.Denominator);
         }
     }
 }
