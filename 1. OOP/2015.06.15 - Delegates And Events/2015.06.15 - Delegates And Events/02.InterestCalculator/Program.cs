@@ -23,8 +23,11 @@
         
         static void Main()
         {
-            Console.WriteLine(new InterestCalculator(500, 5.6m, 10, GetCompoundInterest));
-            Console.WriteLine(new InterestCalculator(2500, 7.2m, 15, GetSimpleInterest));
+            Console.WriteLine("{0:F4}", new InterestCalculator(500, 5.6m, 10, GetCompoundInterest).GetInterestAmount);
+            Console.WriteLine("{0:F4}", new InterestCalculator(2500, 7.2m, 15, GetSimpleInterest).GetInterestAmount);
+
+            //Console.WriteLine(new InterestCalculator(500, 5.6m, 10, GetCompoundInterest));
+            //Console.WriteLine(new InterestCalculator(2500, 7.2m, 15, GetSimpleInterest));
         }
     }
 }

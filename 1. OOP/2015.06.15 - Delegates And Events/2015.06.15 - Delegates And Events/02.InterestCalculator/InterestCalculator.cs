@@ -48,19 +48,22 @@
             }
         }
 
-        public CalculateInterest CalculateInterest { get; set; }
+        public CalculateInterest InterestCalcMethod { get; set; }
+
+        public decimal GetInterestAmount { get; set; }
 
         public InterestCalculator(decimal money, decimal interest, int years, CalculateInterest dlg)
         {
             this.MoneyAmount = money;
             this.Interest = interest;
             this.Years = years;
-            this.CalculateInterest = dlg;
+            this.InterestCalcMethod = dlg;
+            this.GetInterestAmount = dlg(money, interest, years);
         }
 
-        public override string ToString()
-        {
-            return string.Format("{0:F4}", this.CalculateInterest(this.MoneyAmount, this.Interest, this.Years));
-        }
+        //public override string ToString()
+        //{
+        //    return string.Format("{0:F4}", this.CalculateInterest(this.MoneyAmount, this.Interest, this.Years));
+        //}
     }
 }
